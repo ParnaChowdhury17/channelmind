@@ -1,0 +1,10 @@
+yt-dlp
+youtube-transcript-api
+chromadb
+python-dotenv
+streamlit
+tiktoken
+sentence-transformers
+requests
+fastapi
+uvicorn

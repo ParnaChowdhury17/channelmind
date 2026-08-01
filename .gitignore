@@ -1,0 +1,28 @@
+# Python
+.venv/
+channelmind/venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Data (generated/local artifacts)
+channelmind/data/chroma_db/
+channelmind/data/raw/
+channelmind/data/processed/
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/coverage/
+frontend/*.tsbuildinfo
+frontend/next-env.d.ts
+
+# OS
+.DS_Store
