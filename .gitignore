@@ -11,10 +11,6 @@ __pycache__/
 .env.*
 !.env.example
 
-# Data (generated/local artifacts)
-channelmind/data/chroma_db/
-channelmind/data/raw/
-channelmind/data/processed/
 
 # Node / Next.js
 frontend/node_modules/

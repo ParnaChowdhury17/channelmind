@@ -2,6 +2,9 @@
 
 import { useEffect, useState } from "react";
 
+const API_BASE_URL =
+  process.env.NEXT_PUBLIC_API_BASE_URL || "http://127.0.0.1:8000";
+
 type Source = {
   video_title: string;
   video_id: string;
@@ -75,7 +78,7 @@ export default function Home() {
 
   async function fetchStats() {
     try {
-      const response = await fetch("http://127.0.0.1:8000/stats");
+      const response = await fetch(`${API_BASE_URL}/stats`);
 
       if (!response.ok) {
         return;
@@ -90,7 +93,7 @@ export default function Home() {
 
   async function fetchIndexedVideos() {
     try {
-      const response = await fetch("http://127.0.0.1:8000/videos");
+      const response = await fetch(`${API_BASE_URL}/videos`);
 
       if (!response.ok) {
         return;
@@ -116,7 +119,7 @@ export default function Home() {
     setIngestResult(null);
 
     try {
-      const response = await fetch("http://127.0.0.1:8000/ingest", {
+      const response = await fetch(`${API_BASE_URL}/ingest`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -158,7 +161,7 @@ export default function Home() {
     setData(null);
 
     try {
-      const response = await fetch("http://127.0.0.1:8000/ask", {
+      const response = await fetch(`${API_BASE_URL}/ask`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -177,7 +180,7 @@ export default function Home() {
       setData(result);
     } catch {
       setError(
-        "Could not connect to the backend. Make sure FastAPI is running on http://127.0.0.1:8000"
+        `Could not connect to the backend at ${API_BASE_URL}.`
       );
     } finally {
       setLoading(false);

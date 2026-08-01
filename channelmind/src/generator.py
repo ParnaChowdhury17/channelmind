@@ -1,7 +1,13 @@
 from typing import List, Dict, Any
 import requests
 
-from src.config import OLLAMA_BASE_URL, OLLAMA_MODEL
+from src.config import (
+    GENERATION_PROVIDER,
+    OLLAMA_BASE_URL,
+    OLLAMA_MODEL,
+    GROQ_API_KEY,
+    GROQ_MODEL,
+)
 from src.utils import seconds_to_timestamp
 
 
@@ -32,7 +38,7 @@ Transcript:
 
 def generate_answer(query: str, chunks: List[Dict[str, Any]]) -> str:
     """
-    Generate an answer using local Ollama.
+    Generate an answer using the configured GENERATION_PROVIDER (ollama or groq).
     """
 
     context = build_context(chunks)
@@ -58,6 +64,13 @@ Transcript sources:
 Now answer the user question using only the transcript sources.
 """
 
+    if GENERATION_PROVIDER == "groq":
+        return _generate_with_groq(prompt)
+
+    return _generate_with_ollama(prompt)
+
+
+def _generate_with_ollama(prompt: str) -> str:
     response = requests.post(
         f"{OLLAMA_BASE_URL}/api/generate",
         json={
@@ -75,3 +88,21 @@ Now answer the user question using only the transcript sources.
 
     data = response.json()
     return data.get("response", "").strip()
+
+
+def _generate_with_groq(prompt: str) -> str:
+    response = requests.post(
+        "https://api.groq.com/openai/v1/chat/completions",
+        headers={"Authorization": f"Bearer {GROQ_API_KEY}"},
+        json={
+            "model": GROQ_MODEL,
+            "messages": [{"role": "user", "content": prompt}],
+            "temperature": 0.2,
+        },
+        timeout=60,
+    )
+
+    response.raise_for_status()
+
+    data = response.json()
+    return data["choices"][0]["message"]["content"].strip()

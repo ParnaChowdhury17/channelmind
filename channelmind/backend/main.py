@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from src.embed_store import get_chroma_collection, video_already_indexed, get_indexed_videos
-from src.config import COLLECTION_NAME
+from src.config import COLLECTION_NAME, ALLOWED_ORIGINS
 from src.fetch_videos import fetch_channel_videos
 from src.fetch_transcripts import fetch_transcript, save_transcript
 from src.chunk_transcripts import chunk_transcript
@@ -30,10 +30,7 @@ app = FastAPI(
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:3000",
-        "http://127.0.0.1:3000",
-    ],
+    allow_origins=ALLOWED_ORIGINS,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
