@@ -2,8 +2,9 @@
 
 Ask questions across an entire YouTube channel and get grounded answers with timestamped sources. ChannelMind ingests a channel's video transcripts, indexes them in a vector store, and answers questions using retrieval-augmented generation (RAG) — every answer is backed by the specific transcript passages it came from, with links straight to the moment in the video.
 
-**Live demo:** https://channelmind-blond.vercel.app
-**API docs:** https://channelmind-api-production.up.railway.app/docs
+**Frontend:** https://channelmind-blond.vercel.app
+**Backend / API docs:** https://channelmind-api-production.up.railway.app/docs
+**Technical deep dive:** https://claude.ai/code/artifact/90db3941-205a-45bf-9311-dddcc49046f3 — step-by-step architecture, design decisions, and tradeoffs
 
 ## How it works
 
