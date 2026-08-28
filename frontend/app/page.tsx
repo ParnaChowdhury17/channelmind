@@ -1,6 +1,53 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
+import type { Components } from "react-markdown";
+
+const markdownComponents: Components = {
+  p: ({ children }) => <p className="mb-3 last:mb-0">{children}</p>,
+  strong: ({ children }) => (
+    <strong className="font-semibold text-neutral-100">{children}</strong>
+  ),
+  ul: ({ children }) => (
+    <ul className="mb-3 list-disc space-y-1 pl-5">{children}</ul>
+  ),
+  ol: ({ children }) => (
+    <ol className="mb-3 list-decimal space-y-1 pl-5">{children}</ol>
+  ),
+  li: ({ children }) => <li>{children}</li>,
+  a: ({ children, href }) => (
+    <a
+      href={href}
+      target="_blank"
+      rel="noreferrer"
+      className="font-medium text-blue-400 hover:text-blue-300"
+    >
+      {children}
+    </a>
+  ),
+  code: ({ children }) => (
+    <code className="rounded bg-neutral-800 px-1.5 py-0.5 text-sm text-neutral-200">
+      {children}
+    </code>
+  ),
+  table: ({ children }) => (
+    <div className="mb-3 overflow-x-auto">
+      <table className="w-full border-collapse text-sm">{children}</table>
+    </div>
+  ),
+  th: ({ children }) => (
+    <th className="border border-neutral-800 bg-neutral-900 px-3 py-2 text-left font-medium text-neutral-200">
+      {children}
+    </th>
+  ),
+  td: ({ children }) => (
+    <td className="border border-neutral-800 px-3 py-2 align-top text-neutral-300">
+      {children}
+    </td>
+  ),
+};
 
 const API_BASE_URL =
   process.env.NEXT_PUBLIC_API_BASE_URL || "http://127.0.0.1:8000";
@@ -65,6 +112,7 @@ export default function Home() {
   const [data, setData] = useState<AskResponse | null>(null);
 
   const [stats, setStats] = useState<StatsResponse | null>(null);
+  const [statsError, setStatsError] = useState(false);
   const [indexedVideos, setIndexedVideos] = useState<IndexedVideo[]>([]);
 
   const [loading, setLoading] = useState(false);
@@ -81,13 +129,16 @@ export default function Home() {
       const response = await fetch(`${API_BASE_URL}/stats`);
 
       if (!response.ok) {
+        setStatsError(true);
         return;
       }
 
       const result: StatsResponse = await response.json();
       setStats(result);
+      setStatsError(false);
     } catch {
       setStats(null);
+      setStatsError(true);
     }
   }
 
@@ -209,8 +260,12 @@ export default function Home() {
               <p className="text-xs uppercase tracking-[0.2em] text-neutral-500">
                 Backend
               </p>
-              <p className="mt-2 text-lg font-medium text-green-400">
-                {stats ? "Online" : "Checking..."}
+              <p
+                className={`mt-2 text-lg font-medium ${
+                  statsError ? "text-red-400" : "text-green-400"
+                }`}
+              >
+                {stats ? "Online" : statsError ? "Offline" : "Checking..."}
               </p>
             </div>
 
@@ -470,8 +525,10 @@ export default function Home() {
                 Answer
               </p>
 
-              <div className="whitespace-pre-wrap leading-7 text-neutral-200">
-                {data.answer}
+              <div className="leading-7 text-neutral-200">
+                <ReactMarkdown remarkPlugins={[remarkGfm]} components={markdownComponents}>
+                  {data.answer}
+                </ReactMarkdown>
               </div>
             </section>
 

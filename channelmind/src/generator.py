@@ -54,7 +54,7 @@ You must answer using only the transcript sources provided below.
 Rules:
 1. Do not invent information.
 2. If the sources are not enough, say: "The available transcript sources do not provide enough evidence."
-3. Mention the relevant video title and timestamp when using a source.
+3. When referencing a source, cite it inline in plain text as (Video Title, mm:ss). Do not use bracket markers like [SOURCE 1] or 【...】.
 4. Keep the answer clear and structured.
 5. Do not mention vector databases, embeddings, or retrieval.
 

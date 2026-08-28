@@ -1,5 +1,30 @@
 import yt_dlp
 from typing import List, Dict, Any, Optional
+from urllib.parse import urlparse
+
+
+def _normalize_channel_url(channel_url: str) -> str:
+    """
+    yt-dlp's extract_flat only flattens one level deep, so a bare channel
+    URL (e.g. youtube.com/@channel) resolves to the channel's tabs
+    ("Videos", "Shorts", ...) as entries rather than actual videos. Append
+    /videos so it flattens straight to real video entries, unless the URL
+    already points at a videos/shorts/streams tab or a playlist.
+    """
+
+    parsed = urlparse(channel_url)
+    path = parsed.path.rstrip("/")
+
+    if "playlist" in path or "list=" in channel_url:
+        return channel_url
+
+    if path.endswith(("/videos", "/shorts", "/streams")):
+        return channel_url
+
+    if "/@" in path or path.startswith(("/channel/", "/c/", "/user/")):
+        return channel_url.rstrip("/") + "/videos"
+
+    return channel_url
 
 
 def fetch_channel_videos(
@@ -28,7 +53,7 @@ def fetch_channel_videos(
     videos = []
 
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        info = ydl.extract_info(channel_url, download=False)
+        info = ydl.extract_info(_normalize_channel_url(channel_url), download=False)
 
         if not info:
             print("No channel information found.")
