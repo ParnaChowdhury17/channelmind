@@ -1,5 +1,8 @@
+import logging
 from typing import List, Dict, Any
 import requests
+
+logger = logging.getLogger(__name__)
 
 from src.config import (
     GENERATION_PROVIDER,
@@ -101,6 +104,13 @@ def _generate_with_groq(prompt: str) -> str:
         },
         timeout=60,
     )
+
+    if not response.ok:
+        logger.error(
+            "Groq API request failed (status=%s): %s",
+            response.status_code,
+            response.text,
+        )
 
     response.raise_for_status()
 
