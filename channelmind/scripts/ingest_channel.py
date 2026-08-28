@@ -6,7 +6,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from src.fetch_videos import fetch_channel_videos
 from src.fetch_transcripts import fetch_transcript, save_transcript
 from src.chunk_transcripts import chunk_transcript
-from src.embed_store import store_chunks
+from src.embed_store import store_chunks, video_already_indexed
 from src.utils import save_json, append_jsonl
 from src.config import VIDEOS_PATH, CHUNKS_PATH
 
@@ -27,6 +27,10 @@ def ingest_channel(channel_url: str, max_videos: int = 5) -> None:
 
         print(f"\n[{index}/{len(videos)}] Processing: {title}")
         print(f"Video ID: {video_id}")
+
+        if video_already_indexed(video_id):
+            print("Skipping video because it is already indexed.")
+            continue
 
         transcript = fetch_transcript(video_id)
 
