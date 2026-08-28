@@ -1,0 +1,5527 @@
+[
+  {
+    "text": "- This is the scariest chart\nin electrical engineering.",
+    "start": 0.18,
+    "duration": 3.105
+  },
+  {
+    "text": "- Puts the fear of God into\nall undergraduate students.",
+    "start": 3.285,
+    "duration": 2.62
+  },
+  {
+    "text": "- First time that you ever\nlaid eyes on this chart,",
+    "start": 5.905,
+    "duration": 2.204
+  },
+  {
+    "text": "what was your first impression?",
+    "start": 8.109,
+    "duration": 1.586
+  },
+  {
+    "text": "- Holy....\n- It's like terrifying.",
+    "start": 9.695,
+    "duration": 1.694
+  },
+  {
+    "text": "- It looks almost like a wormhole",
+    "start": 11.389,
+    "duration": 2.561
+  },
+  {
+    "text": "in some sci-fi movie.",
+    "start": 13.95,
+    "duration": 1.34
+  },
+  {
+    "text": "- I mean, on many versions,",
+    "start": 15.29,
+    "duration": 1.11
+  },
+  {
+    "text": "it literally says Black Magic.",
+    "start": 16.4,
+    "duration": 3.0
+  },
+  {
+    "text": "But for all the fear, it's everywhere.",
+    "start": 19.4,
+    "duration": 2.409
+  },
+  {
+    "text": "Millions of copies have been printed,",
+    "start": 21.809,
+    "duration": 1.81
+  },
+  {
+    "text": "and it's built into the\nmost advanced software",
+    "start": 23.619,
+    "duration": 1.91
+  },
+  {
+    "text": "we have today. That's\nbecause this chart solves",
+    "start": 25.529,
+    "duration": 2.68
+  },
+  {
+    "text": "one of the most paradoxical problems",
+    "start": 28.209,
+    "duration": 1.791
+  },
+  {
+    "text": "in electrical engineering.",
+    "start": 30.0,
+    "duration": 1.529
+  },
+  {
+    "text": "So we put it to the test.\n- This is crazy.",
+    "start": 31.529,
+    "duration": 2.041
+  },
+  {
+    "text": "- We're getting way more power transfer,",
+    "start": 33.57,
+    "duration": 2.349
+  },
+  {
+    "text": "even though we've cut the line.",
+    "start": 35.919,
+    "duration": 1.45
+  },
+  {
+    "text": "How does that make any sense?",
+    "start": 37.369,
+    "duration": 1.738
+  },
+  {
+    "text": "(both laughing)",
+    "start": 39.107,
+    "duration": 1.183
+  },
+  {
+    "text": "There've been some great YouTube videos",
+    "start": 40.29,
+    "duration": 1.449
+  },
+  {
+    "text": "explaining how to use it,",
+    "start": 41.739,
+    "duration": 1.301
+  },
+  {
+    "text": "like one from my friend Zach Star,",
+    "start": 43.04,
+    "duration": 1.789
+  },
+  {
+    "text": "but I always felt like",
+    "start": 44.829,
+    "duration": 1.99
+  },
+  {
+    "text": "they were missing something essential.",
+    "start": 46.819,
+    "duration": 0.32
+  },
+  {
+    "text": "You also, you wanna know\nwhy this chart looks",
+    "start": 47.139,
+    "duration": 2.716
+  },
+  {
+    "text": "the way it does.",
+    "start": 49.855,
+    "duration": 0.915
+  },
+  {
+    "text": "- Yes.",
+    "start": 50.77,
+    "duration": 0.833
+  },
+  {
+    "text": "But then I need to know the physics.",
+    "start": 51.603,
+    "duration": 1.566
+  },
+  {
+    "text": "I would wanna know what the circles are",
+    "start": 53.169,
+    "duration": 2.271
+  },
+  {
+    "text": "and what I'm looking at at first.",
+    "start": 55.44,
+    "duration": 1.699
+  },
+  {
+    "text": "- Because even once you\nknow how to use this chart,",
+    "start": 57.139,
+    "duration": 1.931
+  },
+  {
+    "text": "you're still left wondering",
+    "start": 59.07,
+    "duration": 1.289
+  },
+  {
+    "text": "how it pulls off its\nstrangest bit of witchcraft:",
+    "start": 60.359,
+    "duration": 2.99
+  },
+  {
+    "text": "trapping infinity inside a finite circle.",
+    "start": 63.349,
+    "duration": 2.45
+  },
+  {
+    "text": "Well, to understand that,\nwe have to go back 100 years",
+    "start": 66.689,
+    "duration": 2.601
+  },
+  {
+    "text": "to the origins of this chart.",
+    "start": 69.29,
+    "duration": 2.364
+  },
+  {
+    "text": "In 1928, Philip H. Smith,",
+    "start": 71.654,
+    "duration": 1.485
+  },
+  {
+    "text": "fresh out of electrical\nengineering school,",
+    "start": 73.139,
+    "duration": 1.73
+  },
+  {
+    "text": "got his first job at Bell Labs.",
+    "start": 74.869,
+    "duration": 2.33
+  },
+  {
+    "text": "The telephone industry was booming.",
+    "start": 77.199,
+    "duration": 2.04
+  },
+  {
+    "text": "Americans were placing more\nthan 65 million calls a day.",
+    "start": 79.239,
+    "duration": 3.4
+  },
+  {
+    "text": "But because telephone calls had\nto go through copper cables,",
+    "start": 82.639,
+    "duration": 2.98
+  },
+  {
+    "text": "every call had a limit: the coast.",
+    "start": 85.619,
+    "duration": 3.25
+  },
+  {
+    "text": "At the time, no telephone\ncables crossed the Atlantic,",
+    "start": 88.869,
+    "duration": 2.71
+  },
+  {
+    "text": "so the only way to call across continents",
+    "start": 91.579,
+    "duration": 2.01
+  },
+  {
+    "text": "was by using radio waves.",
+    "start": 93.589,
+    "duration": 1.51
+  },
+  {
+    "text": "Smith began work on a\nmission to send radio signals",
+    "start": 95.989,
+    "duration": 2.28
+  },
+  {
+    "text": "from New Jersey to receiving stations",
+    "start": 98.269,
+    "duration": 1.701
+  },
+  {
+    "text": "thousands of kilometers away,",
+    "start": 99.97,
+    "duration": 1.879
+  },
+  {
+    "text": "one in England and one in Argentina.",
+    "start": 101.849,
+    "duration": 1.81
+  },
+  {
+    "text": "With only one antenna,",
+    "start": 105.369,
+    "duration": 2.09
+  },
+  {
+    "text": "the signal radiates across the whole sky,",
+    "start": 107.459,
+    "duration": 0.89
+  },
+  {
+    "text": "and only a small portion of\nthe power reaches the receiver.",
+    "start": 108.349,
+    "duration": 3.05
+  },
+  {
+    "text": "But with two antennas, the waves combine.",
+    "start": 111.399,
+    "duration": 2.43
+  },
+  {
+    "text": "In some directions, they\ncancel each other out,",
+    "start": 113.829,
+    "duration": 1.77
+  },
+  {
+    "text": "and in others, they reinforce.",
+    "start": 115.599,
+    "duration": 1.78
+  },
+  {
+    "text": "So right here in the\nmiddle, the power doubles.",
+    "start": 117.379,
+    "duration": 2.371
+  },
+  {
+    "text": "If you add even more antennas,",
+    "start": 119.75,
+    "duration": 1.239
+  },
+  {
+    "text": "it narrows the beam further.",
+    "start": 120.989,
+    "duration": 1.5
+  },
+  {
+    "text": "Focus it to about 10 degrees across,",
+    "start": 122.489,
+    "duration": 2.13
+  },
+  {
+    "text": "and the power in that direction\nis 400 times stronger.",
+    "start": 124.619,
+    "duration": 3.311
+  },
+  {
+    "text": "So to have any chance of their signal",
+    "start": 127.93,
+    "duration": 1.379
+  },
+  {
+    "text": "reaching across the globe,",
+    "start": 129.309,
+    "duration": 1.28
+  },
+  {
+    "text": "Smith's team connected more\nthan 20 smaller antennas",
+    "start": 130.589,
+    "duration": 2.48
+  },
+  {
+    "text": "into a massive directional array",
+    "start": 133.069,
+    "duration": 1.96
+  },
+  {
+    "text": "linked by over two kilometers\nof transmission line.",
+    "start": 135.029,
+    "duration": 2.831
+  },
+  {
+    "text": "Smith's job was to test\nthis massive array,",
+    "start": 137.86,
+    "duration": 2.179
+  },
+  {
+    "text": "but when he tried sending\na signal from the source",
+    "start": 140.039,
+    "duration": 1.861
+  },
+  {
+    "text": "down the line to an antenna,",
+    "start": 141.9,
+    "duration": 1.68
+  },
+  {
+    "text": "well, he noticed something strange.",
+    "start": 143.58,
+    "duration": 2.289
+  },
+  {
+    "text": "Part of it was bouncing back,",
+    "start": 145.869,
+    "duration": 2.06
+  },
+  {
+    "text": "and that reflection meant that\na large portion of the power",
+    "start": 147.929,
+    "duration": 2.401
+  },
+  {
+    "text": "never reached the antenna.",
+    "start": 150.33,
+    "duration": 1.879
+  },
+  {
+    "text": "If he wanted to send a\nsignal across the planet,",
+    "start": 152.209,
+    "duration": 1.981
+  },
+  {
+    "text": "he needed to make sure",
+    "start": 154.19,
+    "duration": 2.459
+  },
+  {
+    "text": "that all the power reached\nthe emitting antennas.",
+    "start": 156.649,
+    "duration": 1.17
+  },
+  {
+    "text": "So he needed to find a way",
+    "start": 157.819,
+    "duration": 1.21
+  },
+  {
+    "text": "to minimize the reflections.",
+    "start": 159.029,
+    "duration": 1.591
+  },
+  {
+    "text": "(light music)",
+    "start": 160.62,
+    "duration": 1.669
+  },
+  {
+    "text": "Now, the reason Smith was\ngetting these reflections",
+    "start": 162.289,
+    "duration": 2.071
+  },
+  {
+    "text": "is that he wasn't working\nwith the kind of electricity",
+    "start": 164.36,
+    "duration": 1.849
+  },
+  {
+    "text": "that we might be used to,",
+    "start": 166.209,
+    "duration": 1.214
+  },
+  {
+    "text": "like with a battery and a light bulb.",
+    "start": 167.423,
+    "duration": 1.926
+  },
+  {
+    "text": "Here, the battery provides\na constant voltage,",
+    "start": 169.349,
+    "duration": 2.261
+  },
+  {
+    "text": "which drives a steady\ncurrent through the wire,",
+    "start": 171.61,
+    "duration": 1.729
+  },
+  {
+    "text": "which lights up the bulb.\nThis is direct current, or DC.",
+    "start": 173.339,
+    "duration": 3.62
+  },
+  {
+    "text": "But to generate radio signals,",
+    "start": 176.959,
+    "duration": 1.5
+  },
+  {
+    "text": "electrons have to oscillate back and forth",
+    "start": 178.459,
+    "duration": 2.081
+  },
+  {
+    "text": "at radio frequency.",
+    "start": 180.54,
+    "duration": 1.41
+  },
+  {
+    "text": "As they accelerate,",
+    "start": 181.95,
+    "duration": 2.41
+  },
+  {
+    "text": "they create changing\nelectromagnetic fields",
+    "start": 184.36,
+    "duration": 0.38
+  },
+  {
+    "text": "that propagate out as radio waves.",
+    "start": 184.74,
+    "duration": 1.81
+  },
+  {
+    "text": "So the voltage has to rise and fall",
+    "start": 187.51,
+    "duration": 2.15
+  },
+  {
+    "text": "and reverse direction,",
+    "start": 189.66,
+    "duration": 1.389
+  },
+  {
+    "text": "and the current has to as well.",
+    "start": 191.049,
+    "duration": 1.901
+  },
+  {
+    "text": "That's alternating current, or AC.",
+    "start": 192.95,
+    "duration": 2.65
+  },
+  {
+    "text": "In the simplest case,",
+    "start": 195.6,
+    "duration": 2.06
+  },
+  {
+    "text": "both the voltage and the\ncurrent are smooth sine waves.",
+    "start": 197.66,
+    "duration": 1.919
+  },
+  {
+    "text": "Now, in reality, it does\nget a bit more complicated",
+    "start": 199.579,
+    "duration": 2.11
+  },
+  {
+    "text": "than that, but for now,",
+    "start": 201.689,
+    "duration": 1.43
+  },
+  {
+    "text": "let's just look at a single\nsinusoidal voltage and current.",
+    "start": 203.119,
+    "duration": 2.971
+  },
+  {
+    "text": "Let's recreate Smith's signal",
+    "start": 206.09,
+    "duration": 1.279
+  },
+  {
+    "text": "by shaking a slinky up and down.",
+    "start": 207.369,
+    "duration": 2.133
+  },
+  {
+    "text": "(light music)",
+    "start": 209.502,
+    "duration": 1.268
+  },
+  {
+    "text": "You can think of my arm\nas the power source.",
+    "start": 210.77,
+    "duration": 2.266
+  },
+  {
+    "text": "(light music)",
+    "start": 213.036,
+    "duration": 1.234
+  },
+  {
+    "text": "So waves travel down the\nline to the other end,",
+    "start": 214.27,
+    "duration": 1.969
+  },
+  {
+    "text": "and you can see that they\nhave some key characteristics.",
+    "start": 216.239,
+    "duration": 2.2
+  },
+  {
+    "text": "The distance from one peak to another",
+    "start": 218.439,
+    "duration": 1.71
+  },
+  {
+    "text": "or from one valley to\nanother is consistent.",
+    "start": 220.149,
+    "duration": 2.48
+  },
+  {
+    "text": "This is the wavelength,",
+    "start": 222.629,
+    "duration": 1.391
+  },
+  {
+    "text": "and how many peaks pass a point per second",
+    "start": 224.02,
+    "duration": 2.21
+  },
+  {
+    "text": "is the frequency of the wave.",
+    "start": 226.23,
+    "duration": 2.02
+  },
+  {
+    "text": "So if you know the number\nof peaks that go by",
+    "start": 228.25,
+    "duration": 2.129
+  },
+  {
+    "text": "and you know the distance\nbetween those peaks,",
+    "start": 230.379,
+    "duration": 2.141
+  },
+  {
+    "text": "well, by multiplying the two together,",
+    "start": 232.52,
+    "duration": 1.519
+  },
+  {
+    "text": "you get the speed of the wave.",
+    "start": 234.039,
+    "duration": 1.891
+  },
+  {
+    "text": "The formula is that the speed is equal",
+    "start": 235.93,
+    "duration": 1.489
+  },
+  {
+    "text": "to the wavelength times the frequency.",
+    "start": 237.419,
+    "duration": 2.171
+  },
+  {
+    "text": "In Smith's case, he needed\nto emit radio waves,",
+    "start": 239.59,
+    "duration": 2.299
+  },
+  {
+    "text": "and they sit on the\nelectromagnetic spectrum,",
+    "start": 241.889,
+    "duration": 2.02
+  },
+  {
+    "text": "alongside microwaves,\ninfrared, and visible light.",
+    "start": 243.909,
+    "duration": 3.131
+  },
+  {
+    "text": "And light waves all travel",
+    "start": 247.04,
+    "duration": 1.229
+  },
+  {
+    "text": "at the same speed in a vacuum,",
+    "start": 248.269,
+    "duration": 1.451
+  },
+  {
+    "text": "about 300 million meters per second, or c.",
+    "start": 249.72,
+    "duration": 3.439
+  },
+  {
+    "text": "In the transmission line,\nthe wave travels more slowly,",
+    "start": 253.159,
+    "duration": 2.39
+  },
+  {
+    "text": "but for a given line,\nthat speed is still fixed,",
+    "start": 255.549,
+    "duration": 2.68
+  },
+  {
+    "text": "and if the speed is fixed,",
+    "start": 258.229,
+    "duration": 1.561
+  },
+  {
+    "text": "well, that means that frequency",
+    "start": 259.79,
+    "duration": 1.259
+  },
+  {
+    "text": "must be inversely\nproportional to wavelength.",
+    "start": 261.049,
+    "duration": 3.01
+  },
+  {
+    "text": "Let me show you.",
+    "start": 264.059,
+    "duration": 1.341
+  },
+  {
+    "text": "(slinky clattering)",
+    "start": 265.4,
+    "duration": 1.758
+  },
+  {
+    "text": "If you decrease the frequency,\nthe wavelength gets longer,",
+    "start": 267.158,
+    "duration": 4.441
+  },
+  {
+    "text": "and if you increase it, the\nwavelength gets shorter,",
+    "start": 271.599,
+    "duration": 2.85
+  },
+  {
+    "text": "and this wavelength is\ncrucial to our problem.",
+    "start": 275.389,
+    "duration": 1.96
+  },
+  {
+    "text": "We'll also show you in simulation here,",
+    "start": 279.019,
+    "duration": 1.58
+  },
+  {
+    "text": "without the effects of\nfriction and damping.",
+    "start": 280.599,
+    "duration": 2.27
+  },
+  {
+    "text": "See, if we start out\nwith a long wavelength,",
+    "start": 282.869,
+    "duration": 1.94
+  },
+  {
+    "text": "the signal barely changes during the time",
+    "start": 284.809,
+    "duration": 1.881
+  },
+  {
+    "text": "it takes to travel down the slinky.",
+    "start": 286.69,
+    "duration": 2.049
+  },
+  {
+    "text": "Once the wave reaches the other fixed end,",
+    "start": 288.739,
+    "duration": 1.96
+  },
+  {
+    "text": "any reflection that comes back",
+    "start": 290.699,
+    "duration": 1.43
+  },
+  {
+    "text": "looks almost identical\nto the original wave.",
+    "start": 292.129,
+    "duration": 2.02
+  },
+  {
+    "text": "The resulting interference\nof these two waves",
+    "start": 295.0,
+    "duration": 1.699
+  },
+  {
+    "text": "doesn't change the overall\nshape of the original signal",
+    "start": 296.699,
+    "duration": 2.43
+  },
+  {
+    "text": "all that much, so there's\nnothing to worry about.",
+    "start": 299.129,
+    "duration": 2.88
+  },
+  {
+    "text": "But when I increase the\nfrequency to the point",
+    "start": 302.009,
+    "duration": 2.43
+  },
+  {
+    "text": "where the wave becomes shorter\nthan the slinky itself,",
+    "start": 304.439,
+    "duration": 2.57
+  },
+  {
+    "text": "well, now when the wave\nreaches the fixed end,",
+    "start": 307.009,
+    "duration": 2.11
+  },
+  {
+    "text": "the reflection back interferes\nwith the incoming wave.",
+    "start": 309.119,
+    "duration": 2.541
+  },
+  {
+    "text": "(light music)",
+    "start": 311.66,
+    "duration": 2.729
+  },
+  {
+    "text": "After a reflection,",
+    "start": 314.389,
+    "duration": 1.03
+  },
+  {
+    "text": "the forward and reflected waves combine.",
+    "start": 315.419,
+    "duration": 1.861
+  },
+  {
+    "text": "At some points, the two waves cancel",
+    "start": 318.86,
+    "duration": 1.759
+  },
+  {
+    "text": "and the voltage is very small,",
+    "start": 320.619,
+    "duration": 1.34
+  },
+  {
+    "text": "and at other points they add together.",
+    "start": 323.179,
+    "duration": 2.1
+  },
+  {
+    "text": "This is what's called a\nstanding wave pattern.",
+    "start": 325.279,
+    "duration": 3.541
+  },
+  {
+    "text": "(slinky clattering)",
+    "start": 328.82,
+    "duration": 3.159
+  },
+  {
+    "text": "In electrical systems,",
+    "start": 331.979,
+    "duration": 1.09
+  },
+  {
+    "text": "the standing wave pattern\ncan be a big problem.",
+    "start": 333.069,
+    "duration": 2.541
+  },
+  {
+    "text": "That's because if the reflections\nin your transmission line",
+    "start": 335.61,
+    "duration": 2.169
+  },
+  {
+    "text": "are bad enough,",
+    "start": 337.779,
+    "duration": 1.81
+  },
+  {
+    "text": "the peak voltages can reach\nup to twice the input voltage.",
+    "start": 339.589,
+    "duration": 2.12
+  },
+  {
+    "text": "And if your line isn't rated for that,",
+    "start": 341.709,
+    "duration": 1.35
+  },
+  {
+    "text": "well, it burns out.",
+    "start": 343.059,
+    "duration": 1.97
+  },
+  {
+    "text": "- There was a huge reflection,",
+    "start": 345.029,
+    "duration": 1.9
+  },
+  {
+    "text": "and a powerful standing wave did this",
+    "start": 346.929,
+    "duration": 2.72
+  },
+  {
+    "text": "to the inner conductor of\nthat transmission line.",
+    "start": 349.649,
+    "duration": 4.11
+  },
+  {
+    "text": "This is the effect of the standing wave.",
+    "start": 353.759,
+    "duration": 2.34
+  },
+  {
+    "text": "It's not made up.",
+    "start": 356.099,
+    "duration": 1.417
+  },
+  {
+    "text": "- In most electrical\nsystems we're used to,",
+    "start": 358.46,
+    "duration": 1.78
+  },
+  {
+    "text": "this isn't too much of a problem.",
+    "start": 360.24,
+    "duration": 1.65
+  },
+  {
+    "text": "Your house supplies AC\npower at a frequency",
+    "start": 361.89,
+    "duration": 2.09
+  },
+  {
+    "text": "of 50 or 60 hertz,",
+    "start": 363.98,
+    "duration": 1.81
+  },
+  {
+    "text": "so that corresponds to a wavelength",
+    "start": 365.79,
+    "duration": 1.5
+  },
+  {
+    "text": "of about 5 to 6,000 kilometers,",
+    "start": 367.29,
+    "duration": 2.15
+  },
+  {
+    "text": "which is far longer than\nany wire that takes power",
+    "start": 369.44,
+    "duration": 2.3
+  },
+  {
+    "text": "from the station to your home.",
+    "start": 371.74,
+    "duration": 1.129
+  },
+  {
+    "text": "But Smith was generating radio waves",
+    "start": 373.73,
+    "duration": 1.889
+  },
+  {
+    "text": "in the megahertz range,",
+    "start": 375.619,
+    "duration": 1.611
+  },
+  {
+    "text": "and at 10 megahertz, the\nwavelength is about 30 meters.",
+    "start": 377.23,
+    "duration": 3.069
+  },
+  {
+    "text": "With the transmission\nline he was working on",
+    "start": 380.299,
+    "duration": 1.541
+  },
+  {
+    "text": "more than two kilometers long,",
+    "start": 381.84,
+    "duration": 1.549
+  },
+  {
+    "text": "well, that's many times the wavelength.",
+    "start": 383.389,
+    "duration": 1.941
+  },
+  {
+    "text": "So, reflections were significant.",
+    "start": 385.33,
+    "duration": 2.229
+  },
+  {
+    "text": "That's why we went to\nImperial College London's",
+    "start": 387.559,
+    "duration": 2.011
+  },
+  {
+    "text": "screened radio frequency anechoic chamber,",
+    "start": 389.57,
+    "duration": 2.45
+  },
+  {
+    "text": "to see if we could recreate\nwhat Smith was up against.",
+    "start": 392.02,
+    "duration": 2.52
+  },
+  {
+    "text": "- As you can see, it's very\nsmall and very compact,",
+    "start": 394.54,
+    "duration": 2.579
+  },
+  {
+    "text": "but we can do a lot of\nantenna measurements in here.",
+    "start": 397.119,
+    "duration": 2.881
+  },
+  {
+    "text": "We can do electromagnetic\ncompatibility measurements here.",
+    "start": 400.0,
+    "duration": 4.119
+  },
+  {
+    "text": "- Here's the experiment.",
+    "start": 404.119,
+    "duration": 0.861
+  },
+  {
+    "text": "We've got a power source\nsending a radio signal",
+    "start": 404.98,
+    "duration": 1.939
+  },
+  {
+    "text": "down a transmission line\nto an antenna array,",
+    "start": 406.919,
+    "duration": 2.407
+  },
+  {
+    "text": "and we put it in an anechoic chamber",
+    "start": 409.326,
+    "duration": 1.333
+  },
+  {
+    "text": "to reduce interference.",
+    "start": 410.659,
+    "duration": 2.18
+  },
+  {
+    "text": "We've got a receiving\nantenna at the other end,",
+    "start": 412.839,
+    "duration": 0.9
+  },
+  {
+    "text": "which is able to pick up the signal",
+    "start": 413.739,
+    "duration": 1.52
+  },
+  {
+    "text": "and tell us just how much\npower is actually making it",
+    "start": 415.259,
+    "duration": 1.991
+  },
+  {
+    "text": "to our antennas.",
+    "start": 417.25,
+    "duration": 1.589
+  },
+  {
+    "text": "It's a scaled model of\nSmith's configuration.",
+    "start": 418.839,
+    "duration": 2.061
+  },
+  {
+    "text": "Now, based on our input power",
+    "start": 420.9,
+    "duration": 1.389
+  },
+  {
+    "text": "and the distance between the antennas,",
+    "start": 422.289,
+    "duration": 2.01
+  },
+  {
+    "text": "we expect a signal of\nabout negative 55 decibels.",
+    "start": 424.299,
+    "duration": 3.381
+  },
+  {
+    "text": "But that's not what we see.",
+    "start": 427.68,
+    "duration": 2.169
+  },
+  {
+    "text": "We've lost half the power.",
+    "start": 429.849,
+    "duration": 1.63
+  },
+  {
+    "text": "We're picking up around\nnegative 59 decibels.",
+    "start": 431.479,
+    "duration": 2.921
+  },
+  {
+    "text": "And because signal is measured\non a logarithmic scale,",
+    "start": 434.4,
+    "duration": 2.399
+  },
+  {
+    "text": "that four decibel drop means",
+    "start": 436.799,
+    "duration": 1.491
+  },
+  {
+    "text": "we've lost more than half the power,",
+    "start": 438.29,
+    "duration": 1.699
+  },
+  {
+    "text": "exactly what was happening to Smith.",
+    "start": 441.199,
+    "duration": 2.18
+  },
+  {
+    "text": "So, let's find out what's stealing it.",
+    "start": 443.379,
+    "duration": 1.93
+  },
+  {
+    "text": "To do that, let's simplify\nthis like a true engineer.",
+    "start": 445.309,
+    "duration": 2.33
+  },
+  {
+    "text": "We can model the electrical signal",
+    "start": 447.639,
+    "duration": 1.431
+  },
+  {
+    "text": "as a simple sinusoidal\nvoltage and current source,",
+    "start": 449.07,
+    "duration": 3.25
+  },
+  {
+    "text": "which we draw like this.",
+    "start": 452.32,
+    "duration": 1.589
+  },
+  {
+    "text": "Next is the transmission line.",
+    "start": 453.909,
+    "duration": 1.25
+  },
+  {
+    "text": "It consists of two\nconductors that form a loop.",
+    "start": 455.159,
+    "duration": 2.911
+  },
+  {
+    "text": "At the far end is the antenna,",
+    "start": 458.07,
+    "duration": 1.519
+  },
+  {
+    "text": "and its exact design varies,",
+    "start": 459.589,
+    "duration": 1.44
+  },
+  {
+    "text": "so for now we'll just\nrepresent it with a black box.",
+    "start": 461.029,
+    "duration": 2.68
+  },
+  {
+    "text": "That gives us a very simple toy model",
+    "start": 463.709,
+    "duration": 1.89
+  },
+  {
+    "text": "with just three parts.",
+    "start": 465.599,
+    "duration": 1.28
+  },
+  {
+    "text": "And we can represent\nthese parts with slinkys.",
+    "start": 466.879,
+    "duration": 2.81
+  },
+  {
+    "text": "Now, so far we've used just one slinky,",
+    "start": 469.689,
+    "duration": 1.93
+  },
+  {
+    "text": "with one set of properties,\nto show how waves travel.",
+    "start": 471.619,
+    "duration": 2.75
+  },
+  {
+    "text": "But the real setup is more than\njust the transmission line.",
+    "start": 474.369,
+    "duration": 3.22
+  },
+  {
+    "text": "Since both the antenna\nand the transmission line",
+    "start": 477.589,
+    "duration": 2.11
+  },
+  {
+    "text": "have their own electrical properties,",
+    "start": 479.699,
+    "duration": 1.51
+  },
+  {
+    "text": "we can model Smith's whole system",
+    "start": 481.209,
+    "duration": 1.49
+  },
+  {
+    "text": "by tying two slinkys together.",
+    "start": 482.699,
+    "duration": 1.98
+  },
+  {
+    "text": "One for the transmission line,",
+    "start": 484.679,
+    "duration": 1.825
+  },
+  {
+    "text": "and the other for the antenna.",
+    "start": 486.504,
+    "duration": 1.415
+  },
+  {
+    "text": "First, we're gonna try two\nvery different slinkys.",
+    "start": 487.919,
+    "duration": 2.521
+  },
+  {
+    "text": "One with a high mass per unit length,",
+    "start": 490.44,
+    "duration": 1.769
+  },
+  {
+    "text": "and one with a low mass per unit length.",
+    "start": 492.209,
+    "duration": 2.44
+  },
+  {
+    "text": "Let's see what happens.",
+    "start": 494.649,
+    "duration": 2.05
+  },
+  {
+    "text": "(slinky clattering)",
+    "start": 496.699,
+    "duration": 2.94
+  },
+  {
+    "text": "Well, when we send a pulse down the line,",
+    "start": 499.639,
+    "duration": 2.09
+  },
+  {
+    "text": "it reaches the boundary\nbetween the two Slinkies.",
+    "start": 501.729,
+    "duration": 2.321
+  },
+  {
+    "text": "Part of the energy continues through.",
+    "start": 504.05,
+    "duration": 1.825
+  },
+  {
+    "text": "(light music)",
+    "start": 505.875,
+    "duration": 3.504
+  },
+  {
+    "text": "And part of it reflects back.",
+    "start": 509.379,
+    "duration": 2.171
+  },
+  {
+    "text": "The severity of the reflection\nis captured by a ratio",
+    "start": 511.55,
+    "duration": 2.62
+  },
+  {
+    "text": "called the reflection coefficient.",
+    "start": 514.17,
+    "duration": 1.609
+  },
+  {
+    "text": "Its magnitude is just the\nsize of the reflected wave",
+    "start": 515.779,
+    "duration": 2.51
+  },
+  {
+    "text": "divided by the forward wave.",
+    "start": 518.289,
+    "duration": 1.791
+  },
+  {
+    "text": "But if the two slinkys have\nthe same mass per unit length,",
+    "start": 520.08,
+    "duration": 2.729
+  },
+  {
+    "text": "the wave passes straight through.",
+    "start": 522.809,
+    "duration": 2.067
+  },
+  {
+    "text": "The reflection coefficient is then zero.",
+    "start": 524.876,
+    "duration": 1.973
+  },
+  {
+    "text": "So when there's a big mismatch\nin mass per unit length,",
+    "start": 526.849,
+    "duration": 2.05
+  },
+  {
+    "text": "we get large reflections.",
+    "start": 528.899,
+    "duration": 2.19
+  },
+  {
+    "text": "But when the properties match,\nthe reflections disappear.",
+    "start": 531.089,
+    "duration": 2.241
+  },
+  {
+    "text": "That's because how the\nwave actually travels",
+    "start": 533.33,
+    "duration": 1.97
+  },
+  {
+    "text": "through the slinky\ndepends on two properties:",
+    "start": 535.3,
+    "duration": 2.67
+  },
+  {
+    "text": "how tightly the slinky is stretched,",
+    "start": 537.97,
+    "duration": 2.186
+  },
+  {
+    "text": "and this mass per unit length.",
+    "start": 540.156,
+    "duration": 1.754
+  },
+  {
+    "text": "But since in this setup both\nslinkys are tied together,",
+    "start": 541.91,
+    "duration": 2.41
+  },
+  {
+    "text": "they're under the same tension.",
+    "start": 544.32,
+    "duration": 1.56
+  },
+  {
+    "text": "So, then the only difference\nis their mass per unit length.",
+    "start": 545.88,
+    "duration": 2.719
+  },
+  {
+    "text": "If we can match this property,",
+    "start": 548.599,
+    "duration": 1.391
+  },
+  {
+    "text": "it's like the discontinuity is gone",
+    "start": 549.99,
+    "duration": 1.6
+  },
+  {
+    "text": "and it's just one slinky again.",
+    "start": 551.59,
+    "duration": 1.319
+  },
+  {
+    "text": "So you might think Smith\ncould do the same thing,",
+    "start": 553.969,
+    "duration": 2.121
+  },
+  {
+    "text": "except instead of matching slinkys,",
+    "start": 556.09,
+    "duration": 1.039
+  },
+  {
+    "text": "he had to match his transmission\nline to his antenna.",
+    "start": 557.129,
+    "duration": 3.08
+  },
+  {
+    "text": "But what electrical\nproperty could do that?",
+    "start": 560.209,
+    "duration": 2.64
+  },
+  {
+    "text": "Well, the mass per unit length decides",
+    "start": 562.849,
+    "duration": 1.911
+  },
+  {
+    "text": "how easy it is for a wave to\ntravel through our slinky.",
+    "start": 564.76,
+    "duration": 2.589
+  },
+  {
+    "text": "So an analogous version\nfor our electrical system",
+    "start": 567.349,
+    "duration": 2.191
+  },
+  {
+    "text": "might just be its resistance,",
+    "start": 569.54,
+    "duration": 1.829
+  },
+  {
+    "text": "because the higher the resistance,",
+    "start": 571.369,
+    "duration": 1.34
+  },
+  {
+    "text": "the harder it is for current to flow.",
+    "start": 572.709,
+    "duration": 2.111
+  },
+  {
+    "text": "That's Ohm's law.",
+    "start": 574.82,
+    "duration": 1.139
+  },
+  {
+    "text": "The resistance is equal\nto the voltage divided",
+    "start": 575.959,
+    "duration": 2.316
+  },
+  {
+    "text": "by the current.",
+    "start": 578.275,
+    "duration": 0.854
+  },
+  {
+    "text": "So if a voltage wave hits the boundary",
+    "start": 579.129,
+    "duration": 1.891
+  },
+  {
+    "text": "between the transmission\nline and the antenna,",
+    "start": 581.02,
+    "duration": 2.059
+  },
+  {
+    "text": "and the resistance changes\nacross that boundary,",
+    "start": 583.079,
+    "duration": 2.55
+  },
+  {
+    "text": "well, the whole wave can't pass through.",
+    "start": 585.629,
+    "duration": 1.86
+  },
+  {
+    "text": "Some of it reflects,",
+    "start": 587.489,
+    "duration": 1.05
+  },
+  {
+    "text": "just like what we saw with the slinkys.",
+    "start": 588.539,
+    "duration": 2.45
+  },
+  {
+    "text": "Indeed, in real life when we checked,",
+    "start": 590.989,
+    "duration": 1.34
+  },
+  {
+    "text": "the resistances didn't match.",
+    "start": 592.329,
+    "duration": 1.391
+  },
+  {
+    "text": "So the antenna array is\nat 12.5 ohms,",
+    "start": 594.64,
+    "duration": 2.389
+  },
+  {
+    "text": "and the transmission line is at 50.",
+    "start": 597.029,
+    "duration": 2.17
+  },
+  {
+    "text": "So, what we're gonna do is we're gonna add",
+    "start": 599.199,
+    "duration": 1.39
+  },
+  {
+    "text": "this 37.5 ohm or 40 ohm resistor",
+    "start": 600.589,
+    "duration": 2.57
+  },
+  {
+    "text": "to try to bring it up so that they match,",
+    "start": 603.159,
+    "duration": 1.79
+  },
+  {
+    "text": "and we'll see what happens to the power.",
+    "start": 604.949,
+    "duration": 1.04
+  },
+  {
+    "text": "Okay, what are we looking\nat? So now it's at...",
+    "start": 607.669,
+    "duration": 2.1
+  },
+  {
+    "text": "Yeah, that's, it hasn't helped us at all.",
+    "start": 609.769,
+    "duration": 1.451
+  },
+  {
+    "text": "It's actually, yeah, we're half the power.",
+    "start": 611.22,
+    "duration": 1.729
+  },
+  {
+    "text": "Interesting. But why is that?",
+    "start": 612.949,
+    "duration": 2.99
+  },
+  {
+    "text": "Resistors have a problem.",
+    "start": 615.939,
+    "duration": 2.15
+  },
+  {
+    "text": "They work by taking power and\ndissipating it through heat,",
+    "start": 618.089,
+    "duration": 2.161
+  },
+  {
+    "text": "so they're fundamentally lossy.",
+    "start": 620.25,
+    "duration": 1.762
+  },
+  {
+    "text": "And that means by putting\nit in our system here,",
+    "start": 622.012,
+    "duration": 1.617
+  },
+  {
+    "text": "we're gonna lose energy no matter what.",
+    "start": 623.629,
+    "duration": 2.301
+  },
+  {
+    "text": "But there's another problem\nwith using resistors,",
+    "start": 625.93,
+    "duration": 1.57
+  },
+  {
+    "text": "and that's that real-life systems",
+    "start": 627.5,
+    "duration": 1.29
+  },
+  {
+    "text": "don't just have resistances.",
+    "start": 628.79,
+    "duration": 1.229
+  },
+  {
+    "text": "Take this disposable camera.",
+    "start": 630.859,
+    "duration": 2.08
+  },
+  {
+    "text": "When I turn on the flash,\nit takes a moment to charge.",
+    "start": 632.939,
+    "duration": 2.84
+  },
+  {
+    "text": "You can hear it.",
+    "start": 635.779,
+    "duration": 1.621
+  },
+  {
+    "text": "And then when I take a picture",
+    "start": 637.4,
+    "duration": 1.25
+  },
+  {
+    "text": "(camera clicking)",
+    "start": 638.65,
+    "duration": 2.539
+  },
+  {
+    "text": "releases all that energy at once.",
+    "start": 641.189,
+    "duration": 2.421
+  },
+  {
+    "text": "That's because inside\nare two conductive plates",
+    "start": 643.61,
+    "duration": 2.089
+  },
+  {
+    "text": "separated by a gap.",
+    "start": 645.699,
+    "duration": 1.411
+  },
+  {
+    "text": "When I turn on the flash, I\napply a voltage across them,",
+    "start": 647.11,
+    "duration": 2.809
+  },
+  {
+    "text": "and because they're not connected,",
+    "start": 649.919,
+    "duration": 1.081
+  },
+  {
+    "text": "a charge builds up on\neach side, storing energy.",
+    "start": 651.0,
+    "duration": 2.86
+  },
+  {
+    "text": "This forms a capacitor,",
+    "start": 653.86,
+    "duration": 1.219
+  },
+  {
+    "text": "and its ability to store charge\nis called its capacitance.",
+    "start": 655.079,
+    "duration": 3.4
+  },
+  {
+    "text": "When I take the picture,\nthe circuit closes,",
+    "start": 658.479,
+    "duration": 1.93
+  },
+  {
+    "text": "and that stored energy\nis released all at once,",
+    "start": 660.409,
+    "duration": 2.32
+  },
+  {
+    "text": "which produces the flash.",
+    "start": 662.729,
+    "duration": 1.58
+  },
+  {
+    "text": "But this isn't just in cameras.",
+    "start": 664.309,
+    "duration": 2.15
+  },
+  {
+    "text": "A transmission line has two conductors",
+    "start": 666.459,
+    "duration": 1.701
+  },
+  {
+    "text": "held a distance apart, so it\nhas a capacitance as well.",
+    "start": 668.16,
+    "duration": 3.369
+  },
+  {
+    "text": "But it uses alternating current,",
+    "start": 671.529,
+    "duration": 1.61
+  },
+  {
+    "text": "so let's see what happens\nwhen we have a capacitor",
+    "start": 673.139,
+    "duration": 1.89
+  },
+  {
+    "text": "with an alternating current signal.",
+    "start": 675.029,
+    "duration": 1.85
+  },
+  {
+    "text": "Okay, so we're gonna make a chart,",
+    "start": 676.879,
+    "duration": 1.341
+  },
+  {
+    "text": "and on the horizontal\naxis, I'm gonna draw time.",
+    "start": 678.22,
+    "duration": 2.866
+  },
+  {
+    "text": "(marker squeaking)",
+    "start": 681.086,
+    "duration": 2.703
+  },
+  {
+    "text": "And on the vertical axis,",
+    "start": 683.789,
+    "duration": 1.9
+  },
+  {
+    "text": "we'll just have magnitude of our wave.",
+    "start": 686.649,
+    "duration": 2.74
+  },
+  {
+    "text": "Okay, so we'll start\nwith our voltage wave,",
+    "start": 689.389,
+    "duration": 1.74
+  },
+  {
+    "text": "which we'll just draw like this.",
+    "start": 691.129,
+    "duration": 2.291
+  },
+  {
+    "text": "(marker squeaking)",
+    "start": 693.42,
+    "duration": 2.999
+  },
+  {
+    "text": "Now we'll draw our current wave in red.",
+    "start": 696.419,
+    "duration": 1.658
+  },
+  {
+    "text": "(marker squeaking)",
+    "start": 698.077,
+    "duration": 2.917
+  },
+  {
+    "text": "As the voltage rises, charge builds up.",
+    "start": 702.149,
+    "duration": 2.28
+  },
+  {
+    "text": "At the peak voltage, that buildup stops,",
+    "start": 704.429,
+    "duration": 2.2
+  },
+  {
+    "text": "and since current is the flow of charge,",
+    "start": 706.629,
+    "duration": 1.841
+  },
+  {
+    "text": "when the charges stop\nmoving, at that point,",
+    "start": 708.47,
+    "duration": 2.03
+  },
+  {
+    "text": "the current is zero.",
+    "start": 710.5,
+    "duration": 2.229
+  },
+  {
+    "text": "Then, as the voltage falls,\nthe charge flows back,",
+    "start": 712.729,
+    "duration": 1.751
+  },
+  {
+    "text": "and that's when the\ncurrent is the largest.",
+    "start": 714.48,
+    "duration": 1.96
+  },
+  {
+    "text": "So unlike resistance,",
+    "start": 716.44,
+    "duration": 1.27
+  },
+  {
+    "text": "voltage and current don't\npeak at the same time.",
+    "start": 717.71,
+    "duration": 2.76
+  },
+  {
+    "text": "Since the horizontal axis is time,",
+    "start": 720.47,
+    "duration": 1.72
+  },
+  {
+    "text": "this shows the current\npeaking before the voltage,",
+    "start": 722.19,
+    "duration": 2.449
+  },
+  {
+    "text": "always by the same amount,\na quarter of a cycle.",
+    "start": 724.639,
+    "duration": 3.191
+  },
+  {
+    "text": "In other words, the voltage\nlags the current by 90 degrees.",
+    "start": 727.83,
+    "duration": 2.97
+  },
+  {
+    "text": "But there is another effect\nwe need to take into account.",
+    "start": 732.209,
+    "duration": 2.711
+  },
+  {
+    "text": "That's because whenever a\ncurrent flows through a wire,",
+    "start": 734.92,
+    "duration": 2.109
+  },
+  {
+    "text": "it creates a magnetic field,",
+    "start": 737.029,
+    "duration": 1.28
+  },
+  {
+    "text": "and if you coil that wire many times over,",
+    "start": 739.41,
+    "duration": 1.809
+  },
+  {
+    "text": "the magnetic field from\neach loop adds together,",
+    "start": 741.219,
+    "duration": 2.4
+  },
+  {
+    "text": "which makes the effect much stronger.",
+    "start": 743.619,
+    "duration": 2.02
+  },
+  {
+    "text": "That's why in circuits",
+    "start": 745.639,
+    "duration": 2.27
+  },
+  {
+    "text": "you might often see components\nthat look like this.",
+    "start": 747.909,
+    "duration": 1.06
+  },
+  {
+    "text": "But even on a straight wire,\nlike our transmission line,",
+    "start": 748.969,
+    "duration": 2.88
+  },
+  {
+    "text": "these fields still exist,",
+    "start": 751.849,
+    "duration": 1.921
+  },
+  {
+    "text": "and they affect the way",
+    "start": 753.77,
+    "duration": 2.219
+  },
+  {
+    "text": "that our current and voltage waves behave.",
+    "start": 755.989,
+    "duration": 0.871
+  },
+  {
+    "text": "A changing magnetic\nfield induces a voltage",
+    "start": 756.86,
+    "duration": 2.39
+  },
+  {
+    "text": "that opposes any change in the current,",
+    "start": 759.25,
+    "duration": 2.281
+  },
+  {
+    "text": "and the faster you try\nto change that current,",
+    "start": 761.531,
+    "duration": 1.539
+  },
+  {
+    "text": "the more voltage pushes back.",
+    "start": 763.07,
+    "duration": 1.529
+  },
+  {
+    "text": "When the current is at zero,",
+    "start": 765.529,
+    "duration": 1.16
+  },
+  {
+    "text": "the slope of the curve is at its steepest,",
+    "start": 766.689,
+    "duration": 2.25
+  },
+  {
+    "text": "so the current is changing the fastest,",
+    "start": 768.939,
+    "duration": 2.45
+  },
+  {
+    "text": "therefore, the voltage is at its peak.",
+    "start": 771.389,
+    "duration": 2.25
+  },
+  {
+    "text": "Further along the cycle, the\ncurrent reaches its maximum.",
+    "start": 773.639,
+    "duration": 2.98
+  },
+  {
+    "text": "For just an instant, it\nhas stopped changing,",
+    "start": 776.619,
+    "duration": 2.02
+  },
+  {
+    "text": "so the slope is flat,",
+    "start": 778.639,
+    "duration": 1.401
+  },
+  {
+    "text": "and that's when voltage drops to zero.",
+    "start": 780.04,
+    "duration": 2.309
+  },
+  {
+    "text": "Past the peak, the current begins to fall,",
+    "start": 782.349,
+    "duration": 1.78
+  },
+  {
+    "text": "and the voltage flips direction.",
+    "start": 784.129,
+    "duration": 1.571
+  },
+  {
+    "text": "So again, the voltage and\ncurrent peaks don't line up.",
+    "start": 786.699,
+    "duration": 2.881
+  },
+  {
+    "text": "The voltage leads the\ncurrent by 90 degrees.",
+    "start": 789.58,
+    "duration": 2.979
+  },
+  {
+    "text": "So that's why matching\nresistances alone wasn't enough",
+    "start": 792.559,
+    "duration": 2.79
+  },
+  {
+    "text": "in our demo.",
+    "start": 795.349,
+    "duration": 1.68
+  },
+  {
+    "text": "With resistance, we can only\ndescribe the relative size",
+    "start": 797.029,
+    "duration": 2.13
+  },
+  {
+    "text": "of our voltage and current\nwaves, or the magnitude,",
+    "start": 799.159,
+    "duration": 2.96
+  },
+  {
+    "text": "but it says nothing about their timing.",
+    "start": 802.119,
+    "duration": 2.452
+  },
+  {
+    "text": "Capacitance and inductance\nshift the current wave",
+    "start": 804.571,
+    "duration": 2.378
+  },
+  {
+    "text": "relative to the voltage wave.",
+    "start": 806.949,
+    "duration": 1.51
+  },
+  {
+    "text": "That is, they shift the phase.",
+    "start": 808.459,
+    "duration": 1.77
+  },
+  {
+    "text": "So a real match needs two\nthings to line up, not just one.",
+    "start": 810.229,
+    "duration": 3.46
+  },
+  {
+    "text": "We have to match the\nmagnitude and the phase.",
+    "start": 813.689,
+    "duration": 2.41
+  },
+  {
+    "text": "Now, one common way to represent something",
+    "start": 817.209,
+    "duration": 1.91
+  },
+  {
+    "text": "with both a magnitude and a phase",
+    "start": 819.119,
+    "duration": 1.66
+  },
+  {
+    "text": "is to use complex numbers.",
+    "start": 820.779,
+    "duration": 1.721
+  },
+  {
+    "text": "They consist of two parts, a real part,",
+    "start": 822.5,
+    "duration": 1.739
+  },
+  {
+    "text": "represented on the X-axis,",
+    "start": 824.239,
+    "duration": 2.34
+  },
+  {
+    "text": "and an imaginary part,\nrepresented on the Y-axis.",
+    "start": 826.579,
+    "duration": 3.421
+  },
+  {
+    "text": "This is the complex plane.",
+    "start": 830.0,
+    "duration": 1.269
+  },
+  {
+    "text": "Now, because electrical engineers\nuse I to refer to current,",
+    "start": 832.119,
+    "duration": 2.61
+  },
+  {
+    "text": "we're gonna refer to\nimaginary numbers with a j.",
+    "start": 834.729,
+    "duration": 2.15
+  },
+  {
+    "text": "And just to shake things up even more,",
+    "start": 838.229,
+    "duration": 1.62
+  },
+  {
+    "text": "most electrical engineering\ntextbooks swap the order,",
+    "start": 839.849,
+    "duration": 2.52
+  },
+  {
+    "text": "so instead of saying\nsomething like 3j, we have j3.",
+    "start": 842.369,
+    "duration": 3.321
+  },
+  {
+    "text": "Now, a purely resistive\ncomponent changes the ratio",
+    "start": 845.69,
+    "duration": 2.429
+  },
+  {
+    "text": "of voltage and current waves\nrelative to each other,",
+    "start": 848.119,
+    "duration": 2.28
+  },
+  {
+    "text": "but it doesn't shift their phase.",
+    "start": 850.399,
+    "duration": 1.92
+  },
+  {
+    "text": "So on this plane,",
+    "start": 852.319,
+    "duration": 2.06
+  },
+  {
+    "text": "pure resistance lies\nalong the horizontal axis,",
+    "start": 854.379,
+    "duration": 1.24
+  },
+  {
+    "text": "where phase is zero.",
+    "start": 855.619,
+    "duration": 1.051
+  },
+  {
+    "text": "Since we care about positive resistances,",
+    "start": 857.669,
+    "duration": 1.741
+  },
+  {
+    "text": "we're only gonna look at\nthe right side of the plane.",
+    "start": 859.41,
+    "duration": 1.609
+  },
+  {
+    "text": "Now, compare that to pure\ncapacitors and inductors.",
+    "start": 862.3,
+    "duration": 2.54
+  },
+  {
+    "text": "These components do shift\nthe phase of our waves",
+    "start": 864.84,
+    "duration": 2.079
+  },
+  {
+    "text": "relative to each other.",
+    "start": 866.919,
+    "duration": 2.19
+  },
+  {
+    "text": "Since an inductor causes\nvoltage to lead current",
+    "start": 869.109,
+    "duration": 1.37
+  },
+  {
+    "text": "by 90 degrees,",
+    "start": 870.479,
+    "duration": 2.38
+  },
+  {
+    "text": "we rotate it up plus 90\ndegrees on the vertical axis.",
+    "start": 872.859,
+    "duration": 1.96
+  },
+  {
+    "text": "A capacitor causes voltage\nto lag current by 90 degrees,",
+    "start": 874.819,
+    "duration": 3.1
+  },
+  {
+    "text": "so we rotate it down to minus 90 degrees.",
+    "start": 877.919,
+    "duration": 2.18
+  },
+  {
+    "text": "Put them together",
+    "start": 881.839,
+    "duration": 1.92
+  },
+  {
+    "text": "and this vertical axis\nis called reactance.",
+    "start": 883.759,
+    "duration": 1.72
+  },
+  {
+    "text": "We can now describe any\ncombination of resistance,",
+    "start": 885.479,
+    "duration": 2.771
+  },
+  {
+    "text": "capacitance, and inductance pretty easily",
+    "start": 888.25,
+    "duration": 2.2
+  },
+  {
+    "text": "on this two-dimensional plane",
+    "start": 890.45,
+    "duration": 1.41
+  },
+  {
+    "text": "as just a combination of a\nresistance value and a reactance.",
+    "start": 891.86,
+    "duration": 2.99
+  },
+  {
+    "text": "This combined quantity\nwe represent with Z.",
+    "start": 895.84,
+    "duration": 2.12
+  },
+  {
+    "text": "It's called the impedance.",
+    "start": 897.96,
+    "duration": 1.0
+  },
+  {
+    "text": "Now, impedance is still defined",
+    "start": 900.28,
+    "duration": 1.52
+  },
+  {
+    "text": "as the ratio of voltage to current.",
+    "start": 901.8,
+    "duration": 1.98
+  },
+  {
+    "text": "It's Ohm's law for AC circuits.",
+    "start": 903.78,
+    "duration": 2.12
+  },
+  {
+    "text": "Z is equal to V over I.",
+    "start": 905.9,
+    "duration": 2.35
+  },
+  {
+    "text": "But now its magnitude\ntells you the relative size",
+    "start": 908.25,
+    "duration": 2.549
+  },
+  {
+    "text": "of your current and voltage waves,",
+    "start": 910.799,
+    "duration": 1.531
+  },
+  {
+    "text": "and its angle tells you\nhow the phase has shifted.",
+    "start": 912.33,
+    "duration": 2.4
+  },
+  {
+    "text": "It's a pretty great real life application",
+    "start": 914.73,
+    "duration": 1.93
+  },
+  {
+    "text": "of \"jmaginary\" numbers.",
+    "start": 916.66,
+    "duration": 1.43
+  },
+  {
+    "text": "So perhaps this is what\nSmith needed to match.",
+    "start": 918.09,
+    "duration": 3.269
+  },
+  {
+    "text": "See, in every transmission line,",
+    "start": 921.359,
+    "duration": 1.681
+  },
+  {
+    "text": "there's a built-in impedance",
+    "start": 923.04,
+    "duration": 1.44
+  },
+  {
+    "text": "called its characteristic\nimpedance, or Z_0.",
+    "start": 924.48,
+    "duration": 2.909
+  },
+  {
+    "text": "This is just a fixed property of the line.",
+    "start": 927.389,
+    "duration": 1.78
+  },
+  {
+    "text": "It's kind of like mass per\nunit length with the Slinkies.",
+    "start": 929.169,
+    "duration": 1.77
+  },
+  {
+    "text": "Now, in most radio\nfrequency or RF systems,",
+    "start": 932.0,
+    "duration": 2.7
+  },
+  {
+    "text": "this is designed to be 50\nohms of pure resistance.",
+    "start": 934.7,
+    "duration": 3.28
+  },
+  {
+    "text": "This is the value we need to match.",
+    "start": 937.98,
+    "duration": 2.22
+  },
+  {
+    "text": "Do that, and it's like we've made",
+    "start": 940.2,
+    "duration": 1.269
+  },
+  {
+    "text": "the two Slinkies\nidentical, no reflections.",
+    "start": 941.469,
+    "duration": 2.371
+  },
+  {
+    "text": "Let's suppose we measure\nthe impedance at the antenna",
+    "start": 944.779,
+    "duration": 1.551
+  },
+  {
+    "text": "and it's 10-j30",
+    "start": 946.33,
+    "duration": 2.659
+  },
+  {
+    "text": "This is a pretty bad match.",
+    "start": 948.989,
+    "duration": 1.48
+  },
+  {
+    "text": "It's like having two Slinkies\nthat are quite different.",
+    "start": 950.469,
+    "duration": 2.36
+  },
+  {
+    "text": "We have to cancel out that -j30,",
+    "start": 952.829,
+    "duration": 2.181
+  },
+  {
+    "text": "and we can do that by adding\na series inductor of +30,",
+    "start": 955.01,
+    "duration": 3.136
+  },
+  {
+    "text": "and the imaginary part drops to zero.",
+    "start": 958.146,
+    "duration": 2.043
+  },
+  {
+    "text": "So, inductive and capacitive\nparts cancel each other out.",
+    "start": 960.189,
+    "duration": 3.34
+  },
+  {
+    "text": "That leaves the real part,\n10 ohms, and we need 50.",
+    "start": 963.529,
+    "duration": 3.41
+  },
+  {
+    "text": "So you might think just\nadd 40 ohms of resistance,",
+    "start": 966.939,
+    "duration": 2.51
+  },
+  {
+    "text": "but a resistor loses power through heat.",
+    "start": 969.449,
+    "duration": 2.481
+  },
+  {
+    "text": "That's the very thing\nwe're trying to stop.",
+    "start": 971.93,
+    "duration": 1.759
+  },
+  {
+    "text": "And what if the resistance were too high?",
+    "start": 973.689,
+    "duration": 1.991
+  },
+  {
+    "text": "You can't add a negative\nresistance in a passive system.",
+    "start": 975.68,
+    "duration": 2.949
+  },
+  {
+    "text": "So, how do you match a\nresistance without a resistor?",
+    "start": 978.629,
+    "duration": 2.69
+  },
+  {
+    "text": "Well, the answer actually already lies",
+    "start": 981.319,
+    "duration": 1.791
+  },
+  {
+    "text": "on the transmission line.",
+    "start": 983.11,
+    "duration": 1.989
+  },
+  {
+    "text": "When part of a wave reflects,",
+    "start": 985.099,
+    "duration": 1.09
+  },
+  {
+    "text": "the line now carries two waves at once,",
+    "start": 986.189,
+    "duration": 1.83
+  },
+  {
+    "text": "the forward one and the reflected one.",
+    "start": 988.019,
+    "duration": 1.56
+  },
+  {
+    "text": "At any point, the voltage you'd measure",
+    "start": 990.639,
+    "duration": 1.521
+  },
+  {
+    "text": "is now the two voltage\nwaves added together.",
+    "start": 992.16,
+    "duration": 1.809
+  },
+  {
+    "text": "But the reflected current wave is flipped,",
+    "start": 995.169,
+    "duration": 2.73
+  },
+  {
+    "text": "so wherever the voltage is reinforced,",
+    "start": 997.899,
+    "duration": 1.9
+  },
+  {
+    "text": "the current's canceled.",
+    "start": 999.799,
+    "duration": 2.07
+  },
+  {
+    "text": "That means that the impedance,\nthe voltage over the current,",
+    "start": 1001.869,
+    "duration": 2.69
+  },
+  {
+    "text": "isn't just one number anymore.",
+    "start": 1004.559,
+    "duration": 1.83
+  },
+  {
+    "text": "It changes as you move along the line.",
+    "start": 1006.389,
+    "duration": 2.1
+  },
+  {
+    "text": "And if the impedance is changing anyway,",
+    "start": 1008.489,
+    "duration": 1.871
+  },
+  {
+    "text": "well, maybe there's a point on the line",
+    "start": 1010.36,
+    "duration": 1.579
+  },
+  {
+    "text": "where our resistance is matched.",
+    "start": 1011.939,
+    "duration": 2.101
+  },
+  {
+    "text": "All that we have to do\nthen is find that point",
+    "start": 1014.04,
+    "duration": 2.259
+  },
+  {
+    "text": "and then deal with the\nremaining imaginary part",
+    "start": 1016.299,
+    "duration": 2.211
+  },
+  {
+    "text": "of the impedance.",
+    "start": 1018.51,
+    "duration": 1.168
+  },
+  {
+    "text": "And we can do that with a\nlossless capacitor or inductor,",
+    "start": 1019.678,
+    "duration": 2.891
+  },
+  {
+    "text": "no resistor needed.",
+    "start": 1022.569,
+    "duration": 2.2
+  },
+  {
+    "text": "At that point,",
+    "start": 1024.769,
+    "duration": 1.3
+  },
+  {
+    "text": "the characteristic impedance\nof the line will be matched.",
+    "start": 1026.069,
+    "duration": 1.27
+  },
+  {
+    "text": "But how do you find that point?",
+    "start": 1027.339,
+    "duration": 1.681
+  },
+  {
+    "text": "Well, more than half a\ncentury before Smith,",
+    "start": 1029.919,
+    "duration": 2.131
+  },
+  {
+    "text": "Oliver Heaviside had described\nhow voltage and current waves",
+    "start": 1032.05,
+    "duration": 2.739
+  },
+  {
+    "text": "behave on transmission lines\nwith a set of equations.",
+    "start": 1034.789,
+    "duration": 3.321
+  },
+  {
+    "text": "But actually using them\nto eliminate reflections",
+    "start": 1038.11,
+    "duration": 2.199
+  },
+  {
+    "text": "was difficult. Calculating\nthe right values meant working",
+    "start": 1040.309,
+    "duration": 2.98
+  },
+  {
+    "text": "through long expressions\nwith a slide rule.",
+    "start": 1043.289,
+    "duration": 2.675
+  },
+  {
+    "text": "(upbeat music)",
+    "start": 1045.964,
+    "duration": 1.105
+  },
+  {
+    "text": "In the 1930s, this was no\nlonger just an abstract problem.",
+    "start": 1047.069,
+    "duration": 3.36
+  },
+  {
+    "text": "As political tensions\nrose across the globe,",
+    "start": 1050.429,
+    "duration": 2.481
+  },
+  {
+    "text": "the ability to send clear\nsignals across oceans",
+    "start": 1052.91,
+    "duration": 2.45
+  },
+  {
+    "text": "became strategically important.",
+    "start": 1055.36,
+    "duration": 2.169
+  },
+  {
+    "text": "It meant you could\ncoordinate ships, aircraft,",
+    "start": 1057.529,
+    "duration": 2.301
+  },
+  {
+    "text": "entire supply networks,",
+    "start": 1059.83,
+    "duration": 1.409
+  },
+  {
+    "text": "activities crucial to waging war.",
+    "start": 1061.239,
+    "duration": 3.091
+  },
+  {
+    "text": "So scientists in other\npowerful nations began",
+    "start": 1064.33,
+    "duration": 2.36
+  },
+  {
+    "text": "to take notice.",
+    "start": 1066.69,
+    "duration": 1.889
+  },
+  {
+    "text": "In the Soviet Union,\nengineer Amiel Volpert",
+    "start": 1068.579,
+    "duration": 1.761
+  },
+  {
+    "text": "began working on the\nsame problem as Smith.",
+    "start": 1070.34,
+    "duration": 2.69
+  },
+  {
+    "text": "And in Japan, engineer\nTōsaku Mizuhashi did as well.",
+    "start": 1073.03,
+    "duration": 3.87
+  },
+  {
+    "text": "They all wanted the same thing,\na simple graphical system",
+    "start": 1076.9,
+    "duration": 2.989
+  },
+  {
+    "text": "that would make matching\nimpedances quick and reliable.",
+    "start": 1079.889,
+    "duration": 2.651
+  },
+  {
+    "text": "See, when Philip Smith\ntried sending a signal",
+    "start": 1084.15,
+    "duration": 1.93
+  },
+  {
+    "text": "down his transmission line,",
+    "start": 1086.08,
+    "duration": 1.209
+  },
+  {
+    "text": "some of the energy didn't\nreach the other end.",
+    "start": 1087.289,
+    "duration": 2.08
+  },
+  {
+    "text": "It reflected, and it came\nbouncing straight back at him.",
+    "start": 1089.369,
+    "duration": 2.801
+  },
+  {
+    "text": "And the same thing happens\nwith your personal data.",
+    "start": 1092.17,
+    "duration": 2.67
+  },
+  {
+    "text": "You put it online, meaning\nfor it to go to one place,",
+    "start": 1094.84,
+    "duration": 2.23
+  },
+  {
+    "text": "but it ends up coming right\nback at you through scam calls,",
+    "start": 1097.07,
+    "duration": 2.93
+  },
+  {
+    "text": "phishing texts, and identity theft.",
+    "start": 1100.0,
+    "duration": 1.77
+  },
+  {
+    "text": "I know I once got a text from a person",
+    "start": 1101.77,
+    "duration": 1.529
+  },
+  {
+    "text": "who I thought was Derek asking\nme for some personal info.",
+    "start": 1103.299,
+    "duration": 2.94
+  },
+  {
+    "text": "I was in a rush, so I just\nsent it right over to him,",
+    "start": 1106.239,
+    "duration": 2.571
+  },
+  {
+    "text": "and of course, that wasn't actually Derek.",
+    "start": 1108.81,
+    "duration": 1.8
+  },
+  {
+    "text": "They just gathered info about me",
+    "start": 1110.61,
+    "duration": 1.36
+  },
+  {
+    "text": "and then used it to\ntrick me into responding.",
+    "start": 1111.97,
+    "duration": 2.379
+  },
+  {
+    "text": "There's a whole business around this,",
+    "start": 1114.349,
+    "duration": 1.311
+  },
+  {
+    "text": "people who grab your data and then sell it",
+    "start": 1115.66,
+    "duration": 1.84
+  },
+  {
+    "text": "to the highest bidder.",
+    "start": 1117.5,
+    "duration": 2.379
+  },
+  {
+    "text": "But there's no hope for an impedance match",
+    "start": 1119.879,
+    "duration": 0.79
+  },
+  {
+    "text": "to solve this problem.",
+    "start": 1120.669,
+    "duration": 2.041
+  },
+  {
+    "text": "Fixing it means tracking\ndown hundreds of data brokers",
+    "start": 1122.71,
+    "duration": 1.61
+  },
+  {
+    "text": "and then forcing each\none to delete your info.",
+    "start": 1124.32,
+    "duration": 2.549
+  },
+  {
+    "text": "But with today's sponsor,\nIncogni, you don't have to.",
+    "start": 1126.869,
+    "duration": 2.401
+  },
+  {
+    "text": "Incogni finds those brokers for you.",
+    "start": 1129.27,
+    "duration": 2.279
+  },
+  {
+    "text": "They figure out who's holding your data,",
+    "start": 1131.549,
+    "duration": 1.781
+  },
+  {
+    "text": "and they send removal\nrequests to each one.",
+    "start": 1133.33,
+    "duration": 2.259
+  },
+  {
+    "text": "You just make an account,\ntell them whose data to scrub,",
+    "start": 1135.589,
+    "duration": 2.57
+  },
+  {
+    "text": "and you let them do the work.",
+    "start": 1138.159,
+    "duration": 1.58
+  },
+  {
+    "text": "So far, they've filed 120 requests for me,",
+    "start": 1139.739,
+    "duration": 2.581
+  },
+  {
+    "text": "and 115 have already been completed.",
+    "start": 1142.32,
+    "duration": 2.159
+  },
+  {
+    "text": "That's roughly 86 hours\nthat I didn't have to spend",
+    "start": 1144.479,
+    "duration": 2.46
+  },
+  {
+    "text": "arguing with data brokers.",
+    "start": 1146.939,
+    "duration": 1.51
+  },
+  {
+    "text": "Two full work weeks.",
+    "start": 1148.449,
+    "duration": 1.4
+  },
+  {
+    "text": "Now, brokers are one thing.",
+    "start": 1149.849,
+    "duration": 1.61
+  },
+  {
+    "text": "What about that one\nspecific site that you know",
+    "start": 1151.459,
+    "duration": 2.39
+  },
+  {
+    "text": "has your info with your\naddress sitting right there?",
+    "start": 1153.849,
+    "duration": 2.581
+  },
+  {
+    "text": "Well, with Incogni's\ncustom removals feature,",
+    "start": 1156.43,
+    "duration": 2.279
+  },
+  {
+    "text": "you point them at any site",
+    "start": 1158.709,
+    "duration": 1.151
+  },
+  {
+    "text": "where your information is exposed,",
+    "start": 1159.86,
+    "duration": 1.519
+  },
+  {
+    "text": "and then one of their privacy\nagents takes it down for you.",
+    "start": 1161.379,
+    "duration": 3.32
+  },
+  {
+    "text": "If you wanna try it, go\nto incogni.com/veritasium.",
+    "start": 1164.699,
+    "duration": 3.411
+  },
+  {
+    "text": "Click the link in the description",
+    "start": 1168.11,
+    "duration": 1.18
+  },
+  {
+    "text": "or scan this QR code on screen,",
+    "start": 1169.29,
+    "duration": 1.939
+  },
+  {
+    "text": "and use code Veritasium for 60% off.",
+    "start": 1171.229,
+    "duration": 2.75
+  },
+  {
+    "text": "It's the closest thing\nto an impedance match",
+    "start": 1173.979,
+    "duration": 1.85
+  },
+  {
+    "text": "that you'll find for your personal data.",
+    "start": 1175.829,
+    "duration": 1.741
+  },
+  {
+    "text": "The junk stops bouncing back.",
+    "start": 1177.57,
+    "duration": 1.72
+  },
+  {
+    "text": "So head to incogni.com/veritasium",
+    "start": 1179.29,
+    "duration": 1.519
+  },
+  {
+    "text": "and use code Veritasium for 60% off.",
+    "start": 1181.909,
+    "duration": 2.48
+  },
+  {
+    "text": "I'd like to thank Incogni\nfor sponsoring this video.",
+    "start": 1184.389,
+    "duration": 2.42
+  },
+  {
+    "text": "Now, Smith, of course,\ndidn't have a shortcut.",
+    "start": 1186.809,
+    "duration": 2.39
+  },
+  {
+    "text": "To stop his reflections,",
+    "start": 1189.199,
+    "duration": 1.29
+  },
+  {
+    "text": "he had to build the solution himself.",
+    "start": 1190.489,
+    "duration": 2.301
+  },
+  {
+    "text": "So Smith started designing a chart.",
+    "start": 1192.79,
+    "duration": 2.119
+  },
+  {
+    "text": "He started with the complex\nplane but with a small change.",
+    "start": 1194.909,
+    "duration": 3.87
+  },
+  {
+    "text": "Most transmission lines today",
+    "start": 1198.779,
+    "duration": 1.42
+  },
+  {
+    "text": "have a characteristic\nimpedance of 50 ohms,",
+    "start": 1200.199,
+    "duration": 2.45
+  },
+  {
+    "text": "but that value can change.",
+    "start": 1202.649,
+    "duration": 2.101
+  },
+  {
+    "text": "The 75-ohm line, for example,",
+    "start": 1204.75,
+    "duration": 1.97
+  },
+  {
+    "text": "needs a completely different match.",
+    "start": 1206.72,
+    "duration": 1.729
+  },
+  {
+    "text": "So if Smith had just plotted raw values,",
+    "start": 1208.449,
+    "duration": 2.071
+  },
+  {
+    "text": "well, then every system would need its",
+    "start": 1210.52,
+    "duration": 1.629
+  },
+  {
+    "text": "own chart with a different goal.",
+    "start": 1212.149,
+    "duration": 1.67
+  },
+  {
+    "text": "Instead, he divided everything",
+    "start": 1214.66,
+    "duration": 1.45
+  },
+  {
+    "text": "by the characteristic impedance\nof the line, Z_0.",
+    "start": 1216.11,
+    "duration": 2.8
+  },
+  {
+    "text": "This normalized the values",
+    "start": 1218.91,
+    "duration": 1.38
+  },
+  {
+    "text": "so that everything was now dimensionless.",
+    "start": 1220.29,
+    "duration": 2.64
+  },
+  {
+    "text": "And now a value of one\nmeant a perfect match,",
+    "start": 1222.93,
+    "duration": 2.459
+  },
+  {
+    "text": "whatever the line's actual\ncharacteristic impedance.",
+    "start": 1225.389,
+    "duration": 2.211
+  },
+  {
+    "text": "But already there was a problem.",
+    "start": 1228.61,
+    "duration": 2.099
+  },
+  {
+    "text": "See, the values of real circuits",
+    "start": 1230.709,
+    "duration": 1.71
+  },
+  {
+    "text": "can fall anywhere between two extremes.",
+    "start": 1232.419,
+    "duration": 2.521
+  },
+  {
+    "text": "A short circuit, where\ncurrent flows freely",
+    "start": 1234.94,
+    "duration": 2.09
+  },
+  {
+    "text": "with almost no voltage,\nso impedance is zero.",
+    "start": 1237.03,
+    "duration": 2.859
+  },
+  {
+    "text": "And an open circuit,",
+    "start": 1239.889,
+    "duration": 1.51
+  },
+  {
+    "text": "where there's a voltage but no current,",
+    "start": 1241.399,
+    "duration": 1.88
+  },
+  {
+    "text": "so impedance is infinite.",
+    "start": 1243.279,
+    "duration": 1.64
+  },
+  {
+    "text": "A real impedance can take on any value",
+    "start": 1244.919,
+    "duration": 1.961
+  },
+  {
+    "text": "between these two extremes.",
+    "start": 1246.88,
+    "duration": 1.57
+  },
+  {
+    "text": "So to show everything,",
+    "start": 1248.45,
+    "duration": 1.09
+  },
+  {
+    "text": "Smith's chart would also\nhave to be infinite.",
+    "start": 1249.54,
+    "duration": 2.91
+  },
+  {
+    "text": "Not so practical.",
+    "start": 1252.45,
+    "duration": 2.58
+  },
+  {
+    "text": "Smith then had a new problem\nto solve, a geometry problem.",
+    "start": 1255.03,
+    "duration": 2.31
+  },
+  {
+    "text": "How to represent infinity\non a finite chart?",
+    "start": 1257.34,
+    "duration": 2.379
+  },
+  {
+    "text": "Smith realized he was\na bit out of his depth,",
+    "start": 1260.71,
+    "duration": 2.03
+  },
+  {
+    "text": "so he called in the help\nof two of his colleagues",
+    "start": 1262.74,
+    "duration": 2.09
+  },
+  {
+    "text": "who specialized in mathematics,\nFerrell and McRae",
+    "start": 1264.83,
+    "duration": 3.34
+  },
+  {
+    "text": "and together they realized",
+    "start": 1268.17,
+    "duration": 1.2
+  },
+  {
+    "text": "they could use a powerful property",
+    "start": 1269.37,
+    "duration": 1.51
+  },
+  {
+    "text": "of complex numbers to address the problem.",
+    "start": 1270.88,
+    "duration": 1.869
+  },
+  {
+    "text": "To see how this works,\nwe'll follow an approach",
+    "start": 1274.24,
+    "duration": 1.9
+  },
+  {
+    "text": "3Blue1Brown laid\nout in an excellent video",
+    "start": 1276.14,
+    "duration": 2.749
+  },
+  {
+    "text": "that I highly recommend you checking out.",
+    "start": 1278.889,
+    "duration": 2.12
+  },
+  {
+    "text": "See, if we multiply any complex number z",
+    "start": 1281.009,
+    "duration": 2.351
+  },
+  {
+    "text": "by some constant like three,",
+    "start": 1283.36,
+    "duration": 1.989
+  },
+  {
+    "text": "everything scales by a factor of three.",
+    "start": 1285.349,
+    "duration": 2.131
+  },
+  {
+    "text": "So, multiplying by real numbers\nlets us scale our value.",
+    "start": 1287.48,
+    "duration": 2.999
+  },
+  {
+    "text": "What about multiplying by\nsomething imaginary, like j?",
+    "start": 1291.419,
+    "duration": 3.45
+  },
+  {
+    "text": "Well, if we start with\none, multiply it by j,",
+    "start": 1294.869,
+    "duration": 2.37
+  },
+  {
+    "text": "then you move to j, a 90-degree rotation.",
+    "start": 1297.239,
+    "duration": 2.7
+  },
+  {
+    "text": "Multiply by j again,",
+    "start": 1300.939,
+    "duration": 1.331
+  },
+  {
+    "text": "and by definition you get negative one.",
+    "start": 1302.27,
+    "duration": 1.95
+  },
+  {
+    "text": "Again, and you get negative j.",
+    "start": 1305.25,
+    "duration": 1.869
+  },
+  {
+    "text": "One more time and you're back at one.",
+    "start": 1307.119,
+    "duration": 2.14
+  },
+  {
+    "text": "So, multiplying by imaginary numbers",
+    "start": 1309.259,
+    "duration": 2.05
+  },
+  {
+    "text": "lets us rotate our value.",
+    "start": 1311.309,
+    "duration": 1.46
+  },
+  {
+    "text": "In general, multiplying\nby any complex constant",
+    "start": 1313.889,
+    "duration": 2.511
+  },
+  {
+    "text": "it scales and it rotates.",
+    "start": 1316.4,
+    "duration": 2.669
+  },
+  {
+    "text": "Now, suppose instead of\nmultiplying by a constant,",
+    "start": 1320.549,
+    "duration": 2.37
+  },
+  {
+    "text": "we try a more complicated\nfunction, like 1/z,",
+    "start": 1322.919,
+    "duration": 4.47
+  },
+  {
+    "text": "and we apply that transformation",
+    "start": 1327.389,
+    "duration": 1.221
+  },
+  {
+    "text": "to the entire complex plane.",
+    "start": 1328.61,
+    "duration": 1.7
+  },
+  {
+    "text": "(light music)",
+    "start": 1330.31,
+    "duration": 1.559
+  },
+  {
+    "text": "Now the lines curve and\nthe whole plane warps,",
+    "start": 1331.869,
+    "duration": 1.971
+  },
+  {
+    "text": "and at first glance,",
+    "start": 1333.84,
+    "duration": 1.14
+  },
+  {
+    "text": "it seems like all geometric\nstructure is lost.",
+    "start": 1334.98,
+    "duration": 2.45
+  },
+  {
+    "text": "But zoom in and you'll see\nthat at a small enough scale,",
+    "start": 1337.43,
+    "duration": 2.849
+  },
+  {
+    "text": "every tiny patch still looks square.",
+    "start": 1340.279,
+    "duration": 2.511
+  },
+  {
+    "text": "This transformation\npreserves shapes and angles.",
+    "start": 1342.79,
+    "duration": 2.25
+  },
+  {
+    "text": "It's called a conformal map.",
+    "start": 1345.04,
+    "duration": 1.96
+  },
+  {
+    "text": "And you'll notice that\nall the values in this map",
+    "start": 1347.0,
+    "duration": 1.899
+  },
+  {
+    "text": "that used to stretch off to infinity,",
+    "start": 1348.899,
+    "duration": 1.961
+  },
+  {
+    "text": "well, they now fit in\nthe center of this chart.",
+    "start": 1350.86,
+    "duration": 2.129
+  },
+  {
+    "text": "So, it represents infinity\nin a finite space.",
+    "start": 1352.989,
+    "duration": 2.5
+  },
+  {
+    "text": "And one over Z is just one example.",
+    "start": 1356.47,
+    "duration": 1.979
+  },
+  {
+    "text": "There are other conformal maps\nthat warp the plane this way,",
+    "start": 1358.449,
+    "duration": 2.83
+  },
+  {
+    "text": "and that's what Smith realized.",
+    "start": 1361.279,
+    "duration": 1.471
+  },
+  {
+    "text": "If you could find the\nright map for his problem,",
+    "start": 1362.75,
+    "duration": 2.32
+  },
+  {
+    "text": "then he could bend the impedance plane",
+    "start": 1365.07,
+    "duration": 1.599
+  },
+  {
+    "text": "into something far more useful.",
+    "start": 1366.669,
+    "duration": 1.621
+  },
+  {
+    "text": "See, up 'til now, he'd\nbeen working in impedance,",
+    "start": 1368.29,
+    "duration": 2.0
+  },
+  {
+    "text": "but it had two problems.",
+    "start": 1370.29,
+    "duration": 1.169
+  },
+  {
+    "text": "It stretched off to infinity,",
+    "start": 1372.489,
+    "duration": 1.38
+  },
+  {
+    "text": "so it wouldn't fit in one chart,",
+    "start": 1373.869,
+    "duration": 1.62
+  },
+  {
+    "text": "and it changed as you\nmoved along the line,",
+    "start": 1375.489,
+    "duration": 1.91
+  },
+  {
+    "text": "so there was no single value\nfor engineers to match.",
+    "start": 1377.399,
+    "duration": 3.0
+  },
+  {
+    "text": "But think back to those two waves,",
+    "start": 1380.399,
+    "duration": 2.011
+  },
+  {
+    "text": "and instead of dividing\nvoltage by current,",
+    "start": 1382.41,
+    "duration": 1.95
+  },
+  {
+    "text": "try dividing the forward\nwave by the reflected one.",
+    "start": 1384.36,
+    "duration": 2.94
+  },
+  {
+    "text": "That gives you the reflection coefficient.",
+    "start": 1387.3,
+    "duration": 2.069
+  },
+  {
+    "text": "Now, on a lossless line,",
+    "start": 1389.369,
+    "duration": 1.2
+  },
+  {
+    "text": "the amplitude of our forward wave stays",
+    "start": 1390.569,
+    "duration": 1.85
+  },
+  {
+    "text": "the same size everywhere.",
+    "start": 1392.419,
+    "duration": 1.521
+  },
+  {
+    "text": "So, does the reflected wave.",
+    "start": 1393.94,
+    "duration": 1.47
+  },
+  {
+    "text": "So, the magnitude of our\nreflection coefficient",
+    "start": 1395.41,
+    "duration": 2.17
+  },
+  {
+    "text": "is constant along the line.",
+    "start": 1397.58,
+    "duration": 1.489
+  },
+  {
+    "text": "The only thing that changes\nas you move is the phase.",
+    "start": 1399.069,
+    "duration": 2.88
+  },
+  {
+    "text": "So, the phase angle of\nthe reflection coefficient",
+    "start": 1401.949,
+    "duration": 2.43
+  },
+  {
+    "text": "picks out an impedance on the line.",
+    "start": 1404.379,
+    "duration": 1.82
+  },
+  {
+    "text": "The two quantities then\ncarry the same information.",
+    "start": 1406.199,
+    "duration": 2.28
+  },
+  {
+    "text": "But unlike impedance,\nit's a lot more tame.",
+    "start": 1408.479,
+    "duration": 2.601
+  },
+  {
+    "text": "That's because the\nreflected wave can at most",
+    "start": 1411.08,
+    "duration": 2.339
+  },
+  {
+    "text": "be the same size as the forward wave,",
+    "start": 1413.419,
+    "duration": 2.06
+  },
+  {
+    "text": "so the reflection coefficient\ncan never grow past one.",
+    "start": 1415.479,
+    "duration": 3.08
+  },
+  {
+    "text": "So you no longer have to deal\nwith this problem of infinity.",
+    "start": 1418.559,
+    "duration": 2.95
+  },
+  {
+    "text": "Let's plot it.",
+    "start": 1421.509,
+    "duration": 1.55
+  },
+  {
+    "text": "We start by plotting one vertical line",
+    "start": 1423.059,
+    "duration": 1.761
+  },
+  {
+    "text": "on the complex plane.",
+    "start": 1424.82,
+    "duration": 1.98
+  },
+  {
+    "text": "This is a line of constant resistance.",
+    "start": 1426.8,
+    "duration": 1.23
+  },
+  {
+    "text": "Now apply the transformation,",
+    "start": 1428.96,
+    "duration": 1.37
+  },
+  {
+    "text": "and that line becomes a circle.",
+    "start": 1431.28,
+    "duration": 1.34
+  },
+  {
+    "text": "Let's try another\nconstant resistance line.",
+    "start": 1433.7,
+    "duration": 1.819
+  },
+  {
+    "text": "Again, this line becomes a circle.",
+    "start": 1436.77,
+    "duration": 2.86
+  },
+  {
+    "text": "And we can do this",
+    "start": 1439.63,
+    "duration": 2.039
+  },
+  {
+    "text": "for all positive constant\nresistance lines.",
+    "start": 1441.669,
+    "duration": 1.571
+  },
+  {
+    "text": "What we get is this\nwhole family of circles.",
+    "start": 1443.24,
+    "duration": 3.049
+  },
+  {
+    "text": "At r=0, the\ncircle is the largest.",
+    "start": 1446.289,
+    "duration": 2.23
+  },
+  {
+    "text": "Its diameter runs from negative one to one",
+    "start": 1448.519,
+    "duration": 2.25
+  },
+  {
+    "text": "on the reflection coefficient plane.",
+    "start": 1450.769,
+    "duration": 1.881
+  },
+  {
+    "text": "As we increase resistance,",
+    "start": 1452.65,
+    "duration": 1.09
+  },
+  {
+    "text": "the circles shrink and their\ncenters move to the right.",
+    "start": 1453.74,
+    "duration": 2.69
+  },
+  {
+    "text": "At r=1, the circle\npasses through the center.",
+    "start": 1456.43,
+    "duration": 2.439
+  },
+  {
+    "text": "That's the match case,",
+    "start": 1458.869,
+    "duration": 2.071
+  },
+  {
+    "text": "where our resistance equals\nour characteristic impedance.",
+    "start": 1460.94,
+    "duration": 2.13
+  },
+  {
+    "text": "As r increases further,\ngoing off to infinity,",
+    "start": 1463.07,
+    "duration": 2.329
+  },
+  {
+    "text": "the circles get smaller and\ncluster towards the right,",
+    "start": 1465.399,
+    "duration": 2.761
+  },
+  {
+    "text": "approaching the point one, zero.",
+    "start": 1468.16,
+    "duration": 1.339
+  },
+  {
+    "text": "Now, let's do the same thing,",
+    "start": 1470.439,
+    "duration": 2.87
+  },
+  {
+    "text": "but plot all the lines\nof constant reactance.",
+    "start": 1473.309,
+    "duration": 0.5
+  },
+  {
+    "text": "These are horizontal lines\non the complex plane.",
+    "start": 1474.25,
+    "duration": 2.869
+  },
+  {
+    "text": "For positive values,\nthese are inductances,",
+    "start": 1477.119,
+    "duration": 2.08
+  },
+  {
+    "text": "and they map to circles above the axis.",
+    "start": 1479.199,
+    "duration": 2.711
+  },
+  {
+    "text": "As reactance increases,\nthe circles shrink.",
+    "start": 1481.91,
+    "duration": 2.709
+  },
+  {
+    "text": "For negative values,\nthese are capacitances,",
+    "start": 1484.619,
+    "duration": 1.18
+  },
+  {
+    "text": "and they map to circles below the axis.",
+    "start": 1486.639,
+    "duration": 2.431
+  },
+  {
+    "text": "As reactance decreases,",
+    "start": 1489.07,
+    "duration": 1.209
+  },
+  {
+    "text": "you get the same pattern mirrored below.",
+    "start": 1490.279,
+    "duration": 2.121
+  },
+  {
+    "text": "When reactance equals zero,\nthe circle has infinite radius,",
+    "start": 1492.4,
+    "duration": 2.92
+  },
+  {
+    "text": "so it appears as a straight line",
+    "start": 1495.32,
+    "duration": 1.36
+  },
+  {
+    "text": "along the horizontal axis.",
+    "start": 1496.68,
+    "duration": 1.659
+  },
+  {
+    "text": "We can get rid of the left\nhalf of the impedance plane,",
+    "start": 1498.339,
+    "duration": 2.05
+  },
+  {
+    "text": "and we're left with our final chart.",
+    "start": 1500.389,
+    "duration": 1.43
+  },
+  {
+    "text": "One family of circles\nnow tells you resistance,",
+    "start": 1503.07,
+    "duration": 2.54
+  },
+  {
+    "text": "the other tells you reactance.",
+    "start": 1505.61,
+    "duration": 1.849
+  },
+  {
+    "text": "So we can still easily read\neach point on the chart",
+    "start": 1507.459,
+    "duration": 2.28
+  },
+  {
+    "text": "in terms of its impedance",
+    "start": 1509.739,
+    "duration": 1.21
+  },
+  {
+    "text": "by just seeing where\nthese circles intersect.",
+    "start": 1510.949,
+    "duration": 2.35
+  },
+  {
+    "text": "But because this is the\nreflection coefficient plane,",
+    "start": 1513.299,
+    "duration": 2.311
+  },
+  {
+    "text": "every point also maps to\na reflection coefficient,",
+    "start": 1515.61,
+    "duration": 2.809
+  },
+  {
+    "text": "and how far it sits from the\ncenter tells you the reflection",
+    "start": 1518.419,
+    "duration": 2.23
+  },
+  {
+    "text": "coefficient's magnitude.",
+    "start": 1520.649,
+    "duration": 1.04
+  },
+  {
+    "text": "Now, that's really the magic.",
+    "start": 1522.669,
+    "duration": 1.49
+  },
+  {
+    "text": "Every point now holds two things at once,",
+    "start": 1524.159,
+    "duration": 2.05
+  },
+  {
+    "text": "an impedance and a reflection coefficient,",
+    "start": 1526.209,
+    "duration": 2.32
+  },
+  {
+    "text": "and as that reflection\ncoefficient rotates,",
+    "start": 1528.529,
+    "duration": 1.73
+  },
+  {
+    "text": "it walks you along the line,",
+    "start": 1530.259,
+    "duration": 1.63
+  },
+  {
+    "text": "cycling through every impedance\nyou'd actually measure.",
+    "start": 1531.889,
+    "duration": 2.77
+  },
+  {
+    "text": "And just like our 1/z example,",
+    "start": 1534.659,
+    "duration": 1.68
+  },
+  {
+    "text": "those values can now be anything.",
+    "start": 1536.339,
+    "duration": 2.411
+  },
+  {
+    "text": "Impedances that once ran off to infinity",
+    "start": 1538.75,
+    "duration": 1.849
+  },
+  {
+    "text": "now sit inside this single circle,",
+    "start": 1540.599,
+    "duration": 2.37
+  },
+  {
+    "text": "the entire infinite range\ncaptured on one finite chart.",
+    "start": 1542.969,
+    "duration": 3.97
+  },
+  {
+    "text": "So, Smith found the\ntransformation he needed",
+    "start": 1546.939,
+    "duration": 2.44
+  },
+  {
+    "text": "for the Smith Chart.",
+    "start": 1549.379,
+    "duration": 2.9
+  },
+  {
+    "text": "For the first time,",
+    "start": 1552.279,
+    "duration": 2.091
+  },
+  {
+    "text": "engineers had a practical way\nto analyze transmission lines,",
+    "start": 1554.37,
+    "duration": 1.005
+  },
+  {
+    "text": "and it opened up a whole\nnew way of solving problems.",
+    "start": 1555.375,
+    "duration": 2.544
+  },
+  {
+    "text": "Let me show you how.",
+    "start": 1557.919,
+    "duration": 1.42
+  },
+  {
+    "text": "Here it is.",
+    "start": 1559.339,
+    "duration": 1.05
+  },
+  {
+    "text": "We've printed a massive chart\nto show you how it works.",
+    "start": 1560.389,
+    "duration": 2.64
+  },
+  {
+    "text": "We're gonna start over here.",
+    "start": 1563.029,
+    "duration": 1.85
+  },
+  {
+    "text": "If you walk along this horizontal line,",
+    "start": 1564.879,
+    "duration": 1.57
+  },
+  {
+    "text": "you're still moving along resistances.",
+    "start": 1566.449,
+    "duration": 2.271
+  },
+  {
+    "text": "Above the line, you\nstill have inductances,",
+    "start": 1568.72,
+    "duration": 2.849
+  },
+  {
+    "text": "and below the line you\nstill have capacitances.",
+    "start": 1571.569,
+    "duration": 3.7
+  },
+  {
+    "text": "And the whole chart fits in a circle",
+    "start": 1575.269,
+    "duration": 1.46
+  },
+  {
+    "text": "with magnitude of one all the way around.",
+    "start": 1576.729,
+    "duration": 2.681
+  },
+  {
+    "text": "So that's our chart.",
+    "start": 1579.41,
+    "duration": 2.05
+  },
+  {
+    "text": "Now let's put it to work\nto help us with the line",
+    "start": 1581.46,
+    "duration": 1.12
+  },
+  {
+    "text": "we measured earlier, the one\nthat was losing half its power.",
+    "start": 1582.58,
+    "duration": 2.409
+  },
+  {
+    "text": "So the measurement in\nthe lab gave us 36 ohms",
+    "start": 1585.86,
+    "duration": 2.339
+  },
+  {
+    "text": "of real resistance and\n74 ohms of reactance,",
+    "start": 1588.199,
+    "duration": 2.63
+  },
+  {
+    "text": "so we have to match that impedance.",
+    "start": 1590.829,
+    "duration": 1.641
+  },
+  {
+    "text": "We divide by 50 ohms to normalize,",
+    "start": 1592.47,
+    "duration": 1.879
+  },
+  {
+    "text": "and that gives us a value\nof z equals 0.7 plus 1.5j.",
+    "start": 1594.349,
+    "duration": 3.91
+  },
+  {
+    "text": "So we start with the real\npart of our impedance.",
+    "start": 1598.259,
+    "duration": 2.08
+  },
+  {
+    "text": "These circles get bigger\nalong the horizontal axis,",
+    "start": 1600.339,
+    "duration": 2.201
+  },
+  {
+    "text": "so 0.7 is the circle right here.",
+    "start": 1602.54,
+    "duration": 2.8
+  },
+  {
+    "text": "Now let's find the imaginary part.",
+    "start": 1606.89,
+    "duration": 1.56
+  },
+  {
+    "text": "It's positive, so it's above this axis.",
+    "start": 1608.45,
+    "duration": 2.649
+  },
+  {
+    "text": "So I'll walk along this way,\nlooking at these circles here,",
+    "start": 1611.099,
+    "duration": 3.061
+  },
+  {
+    "text": "to see where they intersect.",
+    "start": 1614.16,
+    "duration": 2.34
+  },
+  {
+    "text": "And once we find where\nit intersects with 1.5,",
+    "start": 1616.5,
+    "duration": 1.559
+  },
+  {
+    "text": "well, that's our impedance.",
+    "start": 1618.059,
+    "duration": 1.49
+  },
+  {
+    "text": "Finding any impedance on this chart,",
+    "start": 1619.549,
+    "duration": 1.441
+  },
+  {
+    "text": "we just go through the same process.",
+    "start": 1620.99,
+    "duration": 1.869
+  },
+  {
+    "text": "We just find where the\ntwo circles intersect.",
+    "start": 1622.859,
+    "duration": 2.26
+  },
+  {
+    "text": "Now, we know to eliminate reflections,",
+    "start": 1625.119,
+    "duration": 1.85
+  },
+  {
+    "text": "we need to match the impedance\nof the transmission line,",
+    "start": 1626.969,
+    "duration": 2.711
+  },
+  {
+    "text": "and that happens when\nthe resistance is one,",
+    "start": 1629.68,
+    "duration": 1.939
+  },
+  {
+    "text": "so it matches our reference impedance,",
+    "start": 1631.619,
+    "duration": 1.29
+  },
+  {
+    "text": "and that reactance is then zero.",
+    "start": 1632.909,
+    "duration": 2.06
+  },
+  {
+    "text": "That's at the very center of our chart.",
+    "start": 1634.969,
+    "duration": 1.85
+  },
+  {
+    "text": "Now, on a reflection coefficient plane,",
+    "start": 1637.86,
+    "duration": 1.559
+  },
+  {
+    "text": "that's the point zero,\nzero, which makes sense.",
+    "start": 1639.419,
+    "duration": 2.71
+  },
+  {
+    "text": "That's when you have no reflection,",
+    "start": 1642.129,
+    "duration": 1.25
+  },
+  {
+    "text": "so V_r has to be zero.",
+    "start": 1643.379,
+    "duration": 2.13
+  },
+  {
+    "text": "Okay, so our goal is pretty clear.",
+    "start": 1645.509,
+    "duration": 2.441
+  },
+  {
+    "text": "We need to move from our impedance here",
+    "start": 1647.95,
+    "duration": 2.339
+  },
+  {
+    "text": "all the way to the center of the chart.",
+    "start": 1650.289,
+    "duration": 1.541
+  },
+  {
+    "text": "So we draw an arrow from\nthe center to our point.",
+    "start": 1652.75,
+    "duration": 2.36
+  },
+  {
+    "text": "Because this plane represents\nthe reflection coefficient,",
+    "start": 1655.11,
+    "duration": 2.399
+  },
+  {
+    "text": "the length of that arrow\nis then the magnitude",
+    "start": 1657.509,
+    "duration": 1.86
+  },
+  {
+    "text": "of our reflection coefficient.",
+    "start": 1659.369,
+    "duration": 1.89
+  },
+  {
+    "text": "In this case, the magnitude is 0.68,",
+    "start": 1661.259,
+    "duration": 2.991
+  },
+  {
+    "text": "which means that the",
+    "start": 1664.25,
+    "duration": 2.039
+  },
+  {
+    "text": "reflected wave is 0.68\ntimes the forward wave,",
+    "start": 1666.289,
+    "duration": 2.66
+  },
+  {
+    "text": "and that's exactly what\nwe saw in the demo.",
+    "start": 1668.949,
+    "duration": 1.691
+  },
+  {
+    "text": "We also know that as we move\nalong our transmission line,",
+    "start": 1671.76,
+    "duration": 2.479
+  },
+  {
+    "text": "because the same forward\nand reflected waves",
+    "start": 1674.239,
+    "duration": 1.92
+  },
+  {
+    "text": "are interfering, the\nmagnitude of the reflection",
+    "start": 1676.159,
+    "duration": 2.171
+  },
+  {
+    "text": "coefficient shouldn't change.",
+    "start": 1678.33,
+    "duration": 1.71
+  },
+  {
+    "text": "So if we keep the distance\nfrom the center fixed",
+    "start": 1680.04,
+    "duration": 2.509
+  },
+  {
+    "text": "and we rotate around it,\nwe can trace out a circle,",
+    "start": 1682.549,
+    "duration": 3.01
+  },
+  {
+    "text": "and then every point on\nthat circle corresponds",
+    "start": 1685.559,
+    "duration": 2.17
+  },
+  {
+    "text": "to a different position along the line.",
+    "start": 1687.729,
+    "duration": 2.311
+  },
+  {
+    "text": "Because the standing wave pattern repeats",
+    "start": 1690.04,
+    "duration": 1.79
+  },
+  {
+    "text": "every half wavelength,",
+    "start": 1691.83,
+    "duration": 1.179
+  },
+  {
+    "text": "we know that a 360-degree\nrotation on the chart",
+    "start": 1693.009,
+    "duration": 3.0
+  },
+  {
+    "text": "corresponds to moving half\na wavelength along the line.",
+    "start": 1696.009,
+    "duration": 3.23
+  },
+  {
+    "text": "And we can use this to\nmake our life easier.",
+    "start": 1699.239,
+    "duration": 3.28
+  },
+  {
+    "text": "In our example, we wanna move\nto the center of the chart,",
+    "start": 1702.519,
+    "duration": 1.92
+  },
+  {
+    "text": "and for that, we need a\nnormalized resistance of one.",
+    "start": 1704.439,
+    "duration": 2.811
+  },
+  {
+    "text": "So we want our point on this circle.",
+    "start": 1707.25,
+    "duration": 1.479
+  },
+  {
+    "text": "Lucky for us, there are\nalready two places on our line",
+    "start": 1709.72,
+    "duration": 2.309
+  },
+  {
+    "text": "that match the resistance we want.",
+    "start": 1712.029,
+    "duration": 1.805
+  },
+  {
+    "text": "Here.",
+    "start": 1713.834,
+    "duration": 0.833
+  },
+  {
+    "text": "(light music)",
+    "start": 1714.667,
+    "duration": 3.612
+  },
+  {
+    "text": "And here.",
+    "start": 1718.279,
+    "duration": 2.25
+  },
+  {
+    "text": "We can take advantage of\nthat by moving to that place",
+    "start": 1720.529,
+    "duration": 2.02
+  },
+  {
+    "text": "on the line. To do that, just\nsee how far it is to rotate.",
+    "start": 1722.549,
+    "duration": 3.8
+  },
+  {
+    "text": "In this case, it's 12 degrees.",
+    "start": 1726.349,
+    "duration": 2.081
+  },
+  {
+    "text": "Now, since 360 degrees\nis half a wavelength,",
+    "start": 1728.43,
+    "duration": 2.879
+  },
+  {
+    "text": "then 12 degrees here with\na signal of 1085 megahertz,",
+    "start": 1731.309,
+    "duration": 3.34
+  },
+  {
+    "text": "well, that's 3.1 millimeters.",
+    "start": 1734.649,
+    "duration": 2.17
+  },
+  {
+    "text": "It's a bit close to where\nwe want to put the line,",
+    "start": 1736.819,
+    "duration": 1.78
+  },
+  {
+    "text": "so we're actually gonna go\nto the next available spot,",
+    "start": 1738.599,
+    "duration": 2.671
+  },
+  {
+    "text": "which is over here. We\nmeasure it out on this plate",
+    "start": 1741.27,
+    "duration": 2.599
+  },
+  {
+    "text": "and lay it down in copper tape.",
+    "start": 1743.869,
+    "duration": 1.821
+  },
+  {
+    "text": "28 millimeters of extra line.",
+    "start": 1745.69,
+    "duration": 1.699
+  },
+  {
+    "text": "- I'm gonna say it's there,",
+    "start": 1748.549,
+    "duration": 1.9
+  },
+  {
+    "text": "which is approximately correct.",
+    "start": 1750.449,
+    "duration": 1.348
+  },
+  {
+    "text": "(light music)",
+    "start": 1751.797,
+    "duration": 1.703
+  },
+  {
+    "text": "Nice.",
+    "start": 1753.5,
+    "duration": 1.8
+  },
+  {
+    "text": "Okay, perfect. Now all we have\nis this remaining reactance.",
+    "start": 1755.3,
+    "duration": 1.619
+  },
+  {
+    "text": "In this case, it's on this circle,",
+    "start": 1756.919,
+    "duration": 1.72
+  },
+  {
+    "text": "so it's roughly -1.8.",
+    "start": 1758.639,
+    "duration": 2.411
+  },
+  {
+    "text": "All that's left to do is cancel it out,",
+    "start": 1761.05,
+    "duration": 1.466
+  },
+  {
+    "text": "like what we did before.",
+    "start": 1762.516,
+    "duration": 1.633
+  },
+  {
+    "text": "In this case, since it's\na negative capacitive 1.8,",
+    "start": 1764.149,
+    "duration": 3.101
+  },
+  {
+    "text": "we can just add a positive\ninductive element in series.",
+    "start": 1767.25,
+    "duration": 3.36
+  },
+  {
+    "text": "The equation's pretty simple.",
+    "start": 1770.61,
+    "duration": 1.099
+  },
+  {
+    "text": "1.8 equals omega L over Z_0.",
+    "start": 1771.709,
+    "duration": 3.121
+  },
+  {
+    "text": "We rearrange and we get 13.2 nanohenries.",
+    "start": 1774.83,
+    "duration": 3.0
+  },
+  {
+    "text": "So, we can try adding\nsomething like that in the lab.",
+    "start": 1777.83,
+    "duration": 2.679
+  },
+  {
+    "text": "Now we decided to start\nout with a smaller inductor",
+    "start": 1780.509,
+    "duration": 2.201
+  },
+  {
+    "text": "just to test how we move.",
+    "start": 1782.71,
+    "duration": 2.197
+  },
+  {
+    "text": "All right, yeah. Okay, so\nwhat you can, what you can see",
+    "start": 1784.907,
+    "duration": 2.033
+  },
+  {
+    "text": "is we've moved along the\nconstant resistance circle.",
+    "start": 1786.94,
+    "duration": 2.89
+  },
+  {
+    "text": "Not quite enough,",
+    "start": 1789.83,
+    "duration": 1.32
+  },
+  {
+    "text": "so we have to actually up\nthe size of our inductor.",
+    "start": 1791.15,
+    "duration": 2.125
+  },
+  {
+    "text": "(machine buzzing)",
+    "start": 1793.275,
+    "duration": 2.045
+  },
+  {
+    "text": "Now we add the inductance\nwe actually calculated.",
+    "start": 1795.32,
+    "duration": 2.149
+  },
+  {
+    "text": "And sure enough.",
+    "start": 1799.52,
+    "duration": 1.333
+  },
+  {
+    "text": "Okay.\n- Lo and behold.",
+    "start": 1802.199,
+    "duration": 1.561
+  },
+  {
+    "text": "- There we go.\n- Not bad.",
+    "start": 1803.76,
+    "duration": 2.0
+  },
+  {
+    "text": "- There we go, just like that.",
+    "start": 1806.617,
+    "duration": 1.21
+  },
+  {
+    "text": "Yeah, no reflections.",
+    "start": 1807.827,
+    "duration": 0.833
+  },
+  {
+    "text": "- We did it.\n- We did it.",
+    "start": 1808.66,
+    "duration": 1.757
+  },
+  {
+    "text": "- Let's go.",
+    "start": 1810.417,
+    "duration": 0.833
+  },
+  {
+    "text": "Okay. Come on, come on, brother.",
+    "start": 1811.25,
+    "duration": 2.79
+  },
+  {
+    "text": "Come on.",
+    "start": 1814.04,
+    "duration": 1.71
+  },
+  {
+    "text": "That's fine.",
+    "start": 1815.75,
+    "duration": 0.559
+  },
+  {
+    "text": "Let's go.",
+    "start": 1816.309,
+    "duration": 0.79
+  },
+  {
+    "text": "Look at that.",
+    "start": 1817.099,
+    "duration": 0.791
+  },
+  {
+    "text": "Okay, and we're getting,\nand we're getting what?",
+    "start": 1817.89,
+    "duration": 0.499
+  },
+  {
+    "text": "Like, optimal power transfer now.",
+    "start": 1818.389,
+    "duration": 1.561
+  },
+  {
+    "text": "- Yeah.\n- There we go.",
+    "start": 1819.95,
+    "duration": 0.926
+  },
+  {
+    "text": "- For sure.",
+    "start": 1820.876,
+    "duration": 0.833
+  },
+  {
+    "text": "- Man, that's the highest\npower output we've seen.",
+    "start": 1821.709,
+    "duration": 2.081
+  },
+  {
+    "text": "- I think so.",
+    "start": 1823.79,
+    "duration": 1.059
+  },
+  {
+    "text": "- I do think this is important.",
+    "start": 1824.849,
+    "duration": 0.98
+  },
+  {
+    "text": "Like, we've verified that\nthis crazy map switch",
+    "start": 1825.829,
+    "duration": 3.421
+  },
+  {
+    "text": "from the complex plane to the\nreflection coefficient plane",
+    "start": 1829.25,
+    "duration": 3.639
+  },
+  {
+    "text": "leading to these insane appearing circles,",
+    "start": 1832.889,
+    "duration": 2.471
+  },
+  {
+    "text": "they actually mean something.",
+    "start": 1835.36,
+    "duration": 1.269
+  },
+  {
+    "text": "Like, in real life we've used\nit to increase the power.",
+    "start": 1836.629,
+    "duration": 2.65
+  },
+  {
+    "text": "- Crazy.\n- It is crazy.",
+    "start": 1839.279,
+    "duration": 1.25
+  },
+  {
+    "text": "It is crazy.",
+    "start": 1840.529,
+    "duration": 1.29
+  },
+  {
+    "text": "This is cool.",
+    "start": 1841.819,
+    "duration": 1.33
+  },
+  {
+    "text": "This chart represented the\nwhole problem graphically",
+    "start": 1843.149,
+    "duration": 2.47
+  },
+  {
+    "text": "and in a way radio engineers\ncould actually use,",
+    "start": 1845.619,
+    "duration": 2.77
+  },
+  {
+    "text": "and Smith wasn't alone.",
+    "start": 1848.389,
+    "duration": 1.52
+  },
+  {
+    "text": "In 1937, Smith finished his chart,",
+    "start": 1849.909,
+    "duration": 2.53
+  },
+  {
+    "text": "and almost simultaneously",
+    "start": 1852.439,
+    "duration": 1.29
+  },
+  {
+    "text": "Mizuhashi in Japan arrived\nat a similar representation",
+    "start": 1853.729,
+    "duration": 2.661
+  },
+  {
+    "text": "that same year,",
+    "start": 1856.39,
+    "duration": 1.819
+  },
+  {
+    "text": "and Volpert in the Soviet Union in 1939.",
+    "start": 1858.209,
+    "duration": 2.71
+  },
+  {
+    "text": "Three groups working independently",
+    "start": 1860.919,
+    "duration": 1.74
+  },
+  {
+    "text": "all converged on the\nsame elegant solution,",
+    "start": 1862.659,
+    "duration": 2.11
+  },
+  {
+    "text": "and it revealed a much better way",
+    "start": 1864.769,
+    "duration": 1.39
+  },
+  {
+    "text": "to solve the impedance matching problem,",
+    "start": 1866.159,
+    "duration": 1.921
+  },
+  {
+    "text": "one that was rarely used before",
+    "start": 1868.08,
+    "duration": 1.39
+  },
+  {
+    "text": "because it had been too\ndifficult to implement.",
+    "start": 1869.47,
+    "duration": 2.409
+  },
+  {
+    "text": "On the chart, an open circuit\nhas infinite resistance,",
+    "start": 1871.879,
+    "duration": 3.33
+  },
+  {
+    "text": "so it's here.",
+    "start": 1875.209,
+    "duration": 1.083
+  },
+  {
+    "text": "A short circuit is all\nthe way on the other side",
+    "start": 1877.4,
+    "duration": 2.1
+  },
+  {
+    "text": "because it has no resistance,\nso it's over here.",
+    "start": 1879.5,
+    "duration": 3.109
+  },
+  {
+    "text": "What you'll notice is both\nlie on this outer circle,",
+    "start": 1883.889,
+    "duration": 2.581
+  },
+  {
+    "text": "and that makes sense. An open\nor a short absorbs nothing.",
+    "start": 1886.47,
+    "duration": 3.369
+  },
+  {
+    "text": "Every bit of the wave comes back,",
+    "start": 1889.839,
+    "duration": 1.67
+  },
+  {
+    "text": "so it sits on this\nreflection coefficient circle",
+    "start": 1891.509,
+    "duration": 2.25
+  },
+  {
+    "text": "of magnitude one, the\nbiggest reflection there is.",
+    "start": 1893.759,
+    "duration": 3.4
+  },
+  {
+    "text": "And this rim works like every\nother circle on the chart.",
+    "start": 1897.159,
+    "duration": 3.24
+  },
+  {
+    "text": "Moving along the line walks you around it,",
+    "start": 1900.399,
+    "duration": 2.2
+  },
+  {
+    "text": "one full lap every half wavelength.",
+    "start": 1902.599,
+    "duration": 2.07
+  },
+  {
+    "text": "So start at a short or an\nopen, add a bit of line,",
+    "start": 1904.669,
+    "duration": 2.73
+  },
+  {
+    "text": "and look what you pass through.",
+    "start": 1907.399,
+    "duration": 1.61
+  },
+  {
+    "text": "Every reactance there is.",
+    "start": 1909.009,
+    "duration": 1.753
+  },
+  {
+    "text": "What that means is that by\nadding a short or open circuit",
+    "start": 1910.762,
+    "duration": 2.648
+  },
+  {
+    "text": "with any length of line,",
+    "start": 1913.41,
+    "duration": 1.11
+  },
+  {
+    "text": "we can make any reactance.",
+    "start": 1914.52,
+    "duration": 1.989
+  },
+  {
+    "text": "So instead of adding an\ninductor or capacitor,",
+    "start": 1916.509,
+    "duration": 1.95
+  },
+  {
+    "text": "we get the same effect",
+    "start": 1918.459,
+    "duration": 1.02
+  },
+  {
+    "text": "by just using a length\nof transmission line.",
+    "start": 1919.479,
+    "duration": 1.991
+  },
+  {
+    "text": "So we need to cancel out the\nimaginary part of negative 1.8.",
+    "start": 1921.47,
+    "duration": 3.629
+  },
+  {
+    "text": "Now, the cable we're using is coaxial.",
+    "start": 1925.099,
+    "duration": 1.981
+  },
+  {
+    "text": "It's really two conductors,",
+    "start": 1927.08,
+    "duration": 1.69
+  },
+  {
+    "text": "an inner wire and an outer shield",
+    "start": 1928.77,
+    "duration": 1.719
+  },
+  {
+    "text": "held a precise distance apart.",
+    "start": 1930.489,
+    "duration": 1.85
+  },
+  {
+    "text": "Normally it just runs to the antenna",
+    "start": 1932.339,
+    "duration": 1.56
+  },
+  {
+    "text": "carrying the signal in a loop,",
+    "start": 1933.899,
+    "duration": 1.73
+  },
+  {
+    "text": "but we can splice in a side\nbranch of the same cable,",
+    "start": 1935.629,
+    "duration": 3.017
+  },
+  {
+    "text": "a bit of extra transmission\nline called a stub.",
+    "start": 1938.646,
+    "duration": 2.883
+  },
+  {
+    "text": "We've connected one branch to\nthe inner cable of the stub,",
+    "start": 1941.529,
+    "duration": 2.581
+  },
+  {
+    "text": "one branch to the outer.",
+    "start": 1944.11,
+    "duration": 1.709
+  },
+  {
+    "text": "And since at the end of our stub",
+    "start": 1945.819,
+    "duration": 1.39
+  },
+  {
+    "text": "the inner wire and the outer shield",
+    "start": 1947.209,
+    "duration": 1.5
+  },
+  {
+    "text": "aren't actually connected,",
+    "start": 1948.709,
+    "duration": 1.24
+  },
+  {
+    "text": "this means we've created\na break in our circuit.",
+    "start": 1949.949,
+    "duration": 2.42
+  },
+  {
+    "text": "On the Smith Chart, that means we know",
+    "start": 1952.369,
+    "duration": 1.631
+  },
+  {
+    "text": "that the end of the stub lies here",
+    "start": 1954.0,
+    "duration": 1.739
+  },
+  {
+    "text": "at the open circuit position.",
+    "start": 1955.739,
+    "duration": 2.061
+  },
+  {
+    "text": "But the rest of the circuit",
+    "start": 1957.8,
+    "duration": 2.56
+  },
+  {
+    "text": "It sees the impedance at\nthe input of the stub,",
+    "start": 1960.36,
+    "duration": 2.35
+  },
+  {
+    "text": "doesn't see the far end directly.\nwhich is this connection point,",
+    "start": 1962.71,
+    "duration": 1.91
+  },
+  {
+    "text": "and that depends on how long the stub is.",
+    "start": 1964.62,
+    "duration": 2.57
+  },
+  {
+    "text": "Think of the stub as a little\ncove branching off a river.",
+    "start": 1967.19,
+    "duration": 3.04
+  },
+  {
+    "text": "Water runs in, bounces off the back wall,",
+    "start": 1970.23,
+    "duration": 2.22
+  },
+  {
+    "text": "and flows out again, and\nthe length of the cove",
+    "start": 1972.45,
+    "duration": 2.509
+  },
+  {
+    "text": "sets the timing of that returning water.",
+    "start": 1974.959,
+    "duration": 2.24
+  },
+  {
+    "text": "Size the cove right and the\nwater flowing out pushes exactly",
+    "start": 1977.199,
+    "duration": 2.811
+  },
+  {
+    "text": "when you want it to. And that's\nwhat the stub's length does.",
+    "start": 1980.01,
+    "duration": 2.89
+  },
+  {
+    "text": "It sets the timing of the\nwave that reflects back.",
+    "start": 1982.9,
+    "duration": 3.059
+  },
+  {
+    "text": "We want it to equal 1.8 positive.",
+    "start": 1985.959,
+    "duration": 3.09
+  },
+  {
+    "text": "So we start at where the open circuit is",
+    "start": 1989.049,
+    "duration": 2.061
+  },
+  {
+    "text": "and walk all the way around our chart.",
+    "start": 1991.11,
+    "duration": 1.95
+  },
+  {
+    "text": "(light music)",
+    "start": 1993.06,
+    "duration": 3.48
+  },
+  {
+    "text": "And we stop at 1.8.",
+    "start": 1996.54,
+    "duration": 1.66
+  },
+  {
+    "text": "When we measure the angle,",
+    "start": 1999.45,
+    "duration": 2.319
+  },
+  {
+    "text": "we see that that's about 302 degrees.",
+    "start": 2001.769,
+    "duration": 1.751
+  },
+  {
+    "text": "Okay, now 302 divided by 360,",
+    "start": 2003.52,
+    "duration": 2.379
+  },
+  {
+    "text": "that gives us how far along\nwe've been on the circle.",
+    "start": 2005.899,
+    "duration": 2.38
+  },
+  {
+    "text": "And we know that one full circle turn",
+    "start": 2008.279,
+    "duration": 1.77
+  },
+  {
+    "text": "gives us half the wavelength.",
+    "start": 2010.049,
+    "duration": 1.701
+  },
+  {
+    "text": "We get 77 millimeters.",
+    "start": 2011.75,
+    "duration": 1.539
+  },
+  {
+    "text": "That should be the length of our stub.",
+    "start": 2013.289,
+    "duration": 1.871
+  },
+  {
+    "text": "Now, that's the shortest\nlength that works,",
+    "start": 2015.16,
+    "duration": 1.579
+  },
+  {
+    "text": "but since the chart repeats\nevery half wavelength,",
+    "start": 2016.739,
+    "duration": 2.06
+  },
+  {
+    "text": "we could add another\nfull lap, 92 millimeters,",
+    "start": 2018.799,
+    "duration": 2.49
+  },
+  {
+    "text": "and reach exactly the same reactance.",
+    "start": 2021.289,
+    "duration": 1.7
+  },
+  {
+    "text": "We're gonna start with the longer stub",
+    "start": 2024.47,
+    "duration": 1.36
+  },
+  {
+    "text": "and then trim it down to\ntry and tune our match.",
+    "start": 2025.83,
+    "duration": 2.75
+  },
+  {
+    "text": "We haven't matched it yet,",
+    "start": 2028.58,
+    "duration": 1.86
+  },
+  {
+    "text": "so we're still, we still\nhave some of this reactance",
+    "start": 2030.44,
+    "duration": 1.64
+  },
+  {
+    "text": "that we have to cancel out.",
+    "start": 2032.08,
+    "duration": 2.28
+  },
+  {
+    "text": "- Exactly, yeah.",
+    "start": 2034.36,
+    "duration": 0.909
+  },
+  {
+    "text": "And hopefully as we cut\nthis transmission line",
+    "start": 2035.269,
+    "duration": 0.79
+  },
+  {
+    "text": "shorter and shorter,",
+    "start": 2036.059,
+    "duration": 1.74
+  },
+  {
+    "text": "we'll move through that point.",
+    "start": 2037.799,
+    "duration": 1.33
+  },
+  {
+    "text": "- All right, so let's do it.\n- Let's do it. Let's do it.",
+    "start": 2039.129,
+    "duration": 2.78
+  },
+  {
+    "text": "You tell, tell me what's happening.\n- [Professor Stepan] Okay.",
+    "start": 2041.909,
+    "duration": 1.911
+  },
+  {
+    "text": "It's just like a little bit basically.",
+    "start": 2043.82,
+    "duration": 1.549
+  },
+  {
+    "text": "- [Henry] Like that might be...",
+    "start": 2045.369,
+    "duration": 2.417
+  },
+  {
+    "text": "- [Professor Stepan] Come on, gimme that.",
+    "start": 2048.809,
+    "duration": 2.29
+  },
+  {
+    "text": "- Ooh, that's not too bad.",
+    "start": 2051.099,
+    "duration": 1.487
+  },
+  {
+    "text": "- Yeah.",
+    "start": 2052.586,
+    "duration": 0.833
+  },
+  {
+    "text": "- All right, here's the last little bit.",
+    "start": 2053.419,
+    "duration": 3.651
+  },
+  {
+    "text": "- Ooh, that's not bad.\n- A good match.",
+    "start": 2057.07,
+    "duration": 2.449
+  },
+  {
+    "text": "- That's a good match, okay.",
+    "start": 2059.519,
+    "duration": 2.57
+  },
+  {
+    "text": "That's awesome. It's actually so weird.",
+    "start": 2062.089,
+    "duration": 2.11
+  },
+  {
+    "text": "Literally by just changing\nthe length of this line here,",
+    "start": 2064.199,
+    "duration": 2.99
+  },
+  {
+    "text": "this stub, we've matched the impedance.",
+    "start": 2067.189,
+    "duration": 2.91
+  },
+  {
+    "text": "Insane.",
+    "start": 2070.099,
+    "duration": 1.55
+  },
+  {
+    "text": "Look at it.",
+    "start": 2071.649,
+    "duration": 1.0
+  },
+  {
+    "text": "We stopped every reflection on this line",
+    "start": 2072.649,
+    "duration": 1.63
+  },
+  {
+    "text": "with just a break in the circuit,",
+    "start": 2074.279,
+    "duration": 1.89
+  },
+  {
+    "text": "a dangling piece of cable\nconnected to nothing",
+    "start": 2076.169,
+    "duration": 2.26
+  },
+  {
+    "text": "trimmed to the right length.",
+    "start": 2078.429,
+    "duration": 1.3
+  },
+  {
+    "text": "And because the stub is\njust more of the same cable,",
+    "start": 2079.729,
+    "duration": 2.98
+  },
+  {
+    "text": "the fix is made of the\nthing that it's fixing.",
+    "start": 2082.709,
+    "duration": 2.77
+  },
+  {
+    "text": "Now, the series stub we've\nshown gets the idea across,",
+    "start": 2085.479,
+    "duration": 2.491
+  },
+  {
+    "text": "but you'd rarely build one this way",
+    "start": 2087.97,
+    "duration": 1.399
+  },
+  {
+    "text": "because a series stub means\ncutting into your line.",
+    "start": 2089.369,
+    "duration": 2.42
+  },
+  {
+    "text": "In practice, you'd rather\njust solder it in parallel,",
+    "start": 2091.789,
+    "duration": 2.44
+  },
+  {
+    "text": "but that introduces a new problem.",
+    "start": 2094.229,
+    "duration": 1.75
+  },
+  {
+    "text": "In series, impedances\nadd together cleanly.",
+    "start": 2095.979,
+    "duration": 2.45
+  },
+  {
+    "text": "In parallel they don't, but\none over impedance does.",
+    "start": 2098.429,
+    "duration": 2.91
+  },
+  {
+    "text": "That's admittance.",
+    "start": 2101.339,
+    "duration": 2.44
+  },
+  {
+    "text": "The only catch is that\nadmittance curves the other way",
+    "start": 2103.779,
+    "duration": 1.191
+  },
+  {
+    "text": "on the Smith Chart, so engineers\nuse a flipped version of it",
+    "start": 2104.97,
+    "duration": 3.119
+  },
+  {
+    "text": "called the Admittance Smith Chart.",
+    "start": 2108.089,
+    "duration": 1.86
+  },
+  {
+    "text": "Using this chart, matching\nstubs in parallel is easy.",
+    "start": 2109.949,
+    "duration": 3.72
+  },
+  {
+    "text": "So, what we've done today is basically",
+    "start": 2113.669,
+    "duration": 1.661
+  },
+  {
+    "text": "what RF engineers do every day.",
+    "start": 2115.33,
+    "duration": 1.549
+  },
+  {
+    "text": "They play a game trying\nto zigzag their way",
+    "start": 2116.879,
+    "duration": 1.85
+  },
+  {
+    "text": "to the middle of the Smith Chart.",
+    "start": 2118.729,
+    "duration": 1.0
+  },
+  {
+    "text": "But all these charts\nhave one big drawback.",
+    "start": 2121.849,
+    "duration": 1.88
+  },
+  {
+    "text": "They only work for a single frequency,",
+    "start": 2123.729,
+    "duration": 2.021
+  },
+  {
+    "text": "but real world signals\naren't this perfect.",
+    "start": 2125.75,
+    "duration": 1.86
+  },
+  {
+    "text": "The moment you turn them on\nor change them in any way,",
+    "start": 2127.61,
+    "duration": 2.159
+  },
+  {
+    "text": "they spread across a range of frequencies.",
+    "start": 2129.769,
+    "duration": 2.281
+  },
+  {
+    "text": "There are even radio techniques\nthat encode information",
+    "start": 2132.05,
+    "duration": 2.129
+  },
+  {
+    "text": "by changing the frequency.",
+    "start": 2134.179,
+    "duration": 1.523
+  },
+  {
+    "text": "I mean, you've probably heard of them,",
+    "start": 2135.702,
+    "duration": 0.988
+  },
+  {
+    "text": "frequency modulation or FM radio.",
+    "start": 2136.69,
+    "duration": 3.04
+  },
+  {
+    "text": "In practice then, the response of a system",
+    "start": 2139.73,
+    "duration": 1.66
+  },
+  {
+    "text": "doesn't just map to a\nsingle point on a chart,",
+    "start": 2141.39,
+    "duration": 2.25
+  },
+  {
+    "text": "but rather it traces out a curve",
+    "start": 2143.64,
+    "duration": 1.43
+  },
+  {
+    "text": "across its frequency range.",
+    "start": 2145.07,
+    "duration": 1.5
+  },
+  {
+    "text": "So instead of matching one\npoint on a Smith Chart,",
+    "start": 2146.57,
+    "duration": 2.439
+  },
+  {
+    "text": "you try to bring that curve\nas close to the center as",
+    "start": 2149.009,
+    "duration": 1.96
+  },
+  {
+    "text": "possible over the range you care about.",
+    "start": 2150.969,
+    "duration": 2.09
+  },
+  {
+    "text": "So even then, the chart is still useful.",
+    "start": 2153.059,
+    "duration": 2.861
+  },
+  {
+    "text": "So Philip Smith designed a chart",
+    "start": 2155.92,
+    "duration": 1.68
+  },
+  {
+    "text": "that could revolutionize\nhow radio engineers worked,",
+    "start": 2157.6,
+    "duration": 2.869
+  },
+  {
+    "text": "but at first, no one really cared.",
+    "start": 2160.469,
+    "duration": 2.541
+  },
+  {
+    "text": "It took about two years of\nslow responses and rejections",
+    "start": 2163.01,
+    "duration": 3.09
+  },
+  {
+    "text": "from technical magazines",
+    "start": 2166.1,
+    "duration": 1.249
+  },
+  {
+    "text": "before Electronics finally\npublished Smith's chart.",
+    "start": 2167.349,
+    "duration": 3.281
+  },
+  {
+    "text": "Engineers already had their own methods,",
+    "start": 2170.63,
+    "duration": 1.719
+  },
+  {
+    "text": "and this one required",
+    "start": 2172.349,
+    "duration": 1.95
+  },
+  {
+    "text": "a completely different way of thinking.",
+    "start": 2174.299,
+    "duration": 0.78
+  },
+  {
+    "text": "At first, adoption was slow,",
+    "start": 2175.079,
+    "duration": 2.16
+  },
+  {
+    "text": "but World War II changed everything.",
+    "start": 2177.239,
+    "duration": 1.783
+  },
+  {
+    "text": "(upbeat music)",
+    "start": 2179.022,
+    "duration": 2.798
+  },
+  {
+    "text": "In the battle for the Atlantic,",
+    "start": 2181.82,
+    "duration": 1.189
+  },
+  {
+    "text": "German U-boats were sinking Allied ships",
+    "start": 2183.009,
+    "duration": 2.13
+  },
+  {
+    "text": "faster than they could be replaced.",
+    "start": 2185.139,
+    "duration": 2.05
+  },
+  {
+    "text": "At night or in bad weather,",
+    "start": 2187.189,
+    "duration": 1.48
+  },
+  {
+    "text": "the predators were almost\nimpossible to find.",
+    "start": 2188.669,
+    "duration": 2.89
+  },
+  {
+    "text": "At the MIT Radiation Laboratory,",
+    "start": 2191.559,
+    "duration": 1.9
+  },
+  {
+    "text": "scientists were building\nnew microwave radar systems",
+    "start": 2193.459,
+    "duration": 2.57
+  },
+  {
+    "text": "that could detect\nsubmarines on the surface",
+    "start": 2196.029,
+    "duration": 2.14
+  },
+  {
+    "text": "even in complete darkness.",
+    "start": 2198.169,
+    "duration": 2.31
+  },
+  {
+    "text": "And in the middle of a war,",
+    "start": 2200.479,
+    "duration": 1.091
+  },
+  {
+    "text": "you don't have time for trial and error.",
+    "start": 2201.57,
+    "duration": 1.809
+  },
+  {
+    "text": "You need a fast, reliable\nway to fix these systems.",
+    "start": 2203.379,
+    "duration": 2.75
+  },
+  {
+    "text": "So, Smith's chart was used constantly.",
+    "start": 2206.129,
+    "duration": 2.08
+  },
+  {
+    "text": "When the war ended,",
+    "start": 2208.209,
+    "duration": 2.52
+  },
+  {
+    "text": "those same engineers\ntook the chart with them",
+    "start": 2210.729,
+    "duration": 0.311
+  },
+  {
+    "text": "out into industry, into the\nuniversities they'd work in,",
+    "start": 2211.04,
+    "duration": 2.399
+  },
+  {
+    "text": "and the textbooks they'd go on to write.",
+    "start": 2213.439,
+    "duration": 2.381
+  },
+  {
+    "text": "Meanwhile, the other versions of the chart",
+    "start": 2215.82,
+    "duration": 1.729
+  },
+  {
+    "text": "by Mizuhashi and Volpert",
+    "start": 2217.549,
+    "duration": 1.27
+  },
+  {
+    "text": "were used in Japan and\nthe Soviet Union locally",
+    "start": 2218.819,
+    "duration": 2.31
+  },
+  {
+    "text": "but weren't spread as widely.",
+    "start": 2221.129,
+    "duration": 2.04
+  },
+  {
+    "text": "That's why today we refer to\nthis chart as the Smith Chart.",
+    "start": 2223.169,
+    "duration": 3.68
+  },
+  {
+    "text": "Now, granted,",
+    "start": 2226.849,
+    "duration": 1.96
+  },
+  {
+    "text": "engineers don't need to\nimpedance match by hand anymore.",
+    "start": 2228.809,
+    "duration": 1.511
+  },
+  {
+    "text": "Computers can do it a lot faster.",
+    "start": 2230.32,
+    "duration": 2.117
+  },
+  {
+    "text": "But this chart is still\ntaught around the world",
+    "start": 2232.437,
+    "duration": 1.863
+  },
+  {
+    "text": "in engineering classrooms,",
+    "start": 2234.3,
+    "duration": 1.149
+  },
+  {
+    "text": "and many engineers still\nrely on it to this day.",
+    "start": 2235.449,
+    "duration": 2.34
+  },
+  {
+    "text": "That's because while a\ncomputer can tell you",
+    "start": 2238.849,
+    "duration": 1.89
+  },
+  {
+    "text": "the perfect match,",
+    "start": 2240.739,
+    "duration": 2.33
+  },
+  {
+    "text": "it doesn't tell you what\nto try or why it works.",
+    "start": 2243.069,
+    "duration": 1.73
+  },
+  {
+    "text": "The Smith Chart encodes that intuition.",
+    "start": 2244.799,
+    "duration": 1.98
+  },
+  {
+    "text": "And because of that,",
+    "start": 2246.779,
+    "duration": 2.18
+  },
+  {
+    "text": "it's still a popular visualization\ntool in modern software,",
+    "start": 2248.959,
+    "duration": 1.831
+  },
+  {
+    "text": "and it's used in almost\nall radio frequency",
+    "start": 2250.79,
+    "duration": 1.859
+  },
+  {
+    "text": "measurement tools.",
+    "start": 2252.649,
+    "duration": 0.891
+  },
+  {
+    "text": "- So historically, we\nwould get a Smith Chart",
+    "start": 2253.54,
+    "duration": 2.5
+  },
+  {
+    "text": "and we'd use rulers",
+    "start": 2256.04,
+    "duration": 1.14
+  },
+  {
+    "text": "and we'd use protractors and compasses.",
+    "start": 2257.18,
+    "duration": 2.879
+  },
+  {
+    "text": "These days, we use a Smith Chart",
+    "start": 2260.059,
+    "duration": 2.08
+  },
+  {
+    "text": "more like a back of the\nenvelope calculation",
+    "start": 2262.139,
+    "duration": 2.07
+  },
+  {
+    "text": "where it's like a map.",
+    "start": 2264.209,
+    "duration": 1.44
+  },
+  {
+    "text": "It's like if, if somebody asks you,",
+    "start": 2265.649,
+    "duration": 1.711
+  },
+  {
+    "text": "how do you get to the\nnearest tube station?",
+    "start": 2267.36,
+    "duration": 2.08
+  },
+  {
+    "text": "You'd say, well here's an envelope.",
+    "start": 2269.44,
+    "duration": 2.92
+  },
+  {
+    "text": "You go down the street\nhere, turn left there,",
+    "start": 2272.36,
+    "duration": 2.086
+  },
+  {
+    "text": "go further down there.",
+    "start": 2274.446,
+    "duration": 1.175
+  },
+  {
+    "text": "And in the same way,",
+    "start": 2275.621,
+    "duration": 1.539
+  },
+  {
+    "text": "we use it to navigate from where we are",
+    "start": 2277.16,
+    "duration": 2.969
+  },
+  {
+    "text": "to where we wanna be.\n- Sure.",
+    "start": 2280.129,
+    "duration": 2.71
+  },
+  {
+    "text": "So it gives you an intuition\nof what direction to go.",
+    "start": 2282.839,
+    "duration": 0.73
+  },
+  {
+    "text": "- That's right.",
+    "start": 2283.569,
+    "duration": 1.801
+  },
+  {
+    "text": "- Okay.",
+    "start": 2285.37,
+    "duration": 0.829
+  },
+  {
+    "text": "Before the Smith Chart,",
+    "start": 2286.199,
+    "duration": 1.161
+  },
+  {
+    "text": "engineers were stuck using\ncumbersome formulas and guessing.",
+    "start": 2287.36,
+    "duration": 2.0
+  },
+  {
+    "text": "It took a concerted\neffort by Philip Smith,",
+    "start": 2289.36,
+    "duration": 2.029
+  },
+  {
+    "text": "Tōsaku Mizuhashi, and Amiel Volpert",
+    "start": 2291.389,
+    "duration": 2.24
+  },
+  {
+    "text": "to make this complex world of\nreflections and standing waves",
+    "start": 2293.629,
+    "duration": 2.82
+  },
+  {
+    "text": "easier to understand.",
+    "start": 2296.449,
+    "duration": 1.51
+  },
+  {
+    "text": "For me, it brings to mind\nMendeleev and the Periodice Table",
+    "start": 2297.959,
+    "duration": 3.121
+  },
+  {
+    "text": "or Feynman and his diagrams.",
+    "start": 2301.08,
+    "duration": 2.11
+  },
+  {
+    "text": "The Smith Chart is in that same vein.",
+    "start": 2303.19,
+    "duration": 2.25
+  },
+  {
+    "text": "So, much of scientific progress",
+    "start": 2305.44,
+    "duration": 1.53
+  },
+  {
+    "text": "comes not from new discoveries",
+    "start": 2306.97,
+    "duration": 1.759
+  },
+  {
+    "text": "but from new forms of representation.",
+    "start": 2308.729,
+    "duration": 2.31
+  },
+  {
+    "text": "They make hard problems easier to solve",
+    "start": 2311.039,
+    "duration": 2.181
+  },
+  {
+    "text": "and make further innovation\nand discovery possible.",
+    "start": 2313.22,
+    "duration": 2.82
+  },
+  {
+    "text": "The Smith Chart helped advance\nradio frequency engineering.",
+    "start": 2316.04,
+    "duration": 2.82
+  },
+  {
+    "text": "It was crucial in building\nmodern radar and sensing systems,",
+    "start": 2318.86,
+    "duration": 3.37
+  },
+  {
+    "text": "and the communication\nnetworks we rely on today",
+    "start": 2322.23,
+    "duration": 2.2
+  },
+  {
+    "text": "were in no small part\nbuilt from this chart.",
+    "start": 2324.43,
+    "duration": 2.8
+  },
+  {
+    "text": "So yes, it's scary, but\nit's also damn useful.",
+    "start": 2327.23,
+    "duration": 3.391
+  },
+  {
+    "text": "(light music)",
+    "start": 2330.621,
+    "duration": 4.338
+  },
+  {
+    "text": "One last thing.",
+    "start": 2334.959,
+    "duration": 1.821
+  },
+  {
+    "text": "Last year, we launched the\nofficial Veritasium board game,",
+    "start": 2336.78,
+    "duration": 1.8
+  },
+  {
+    "text": "Elements of Truth.",
+    "start": 2338.58,
+    "duration": 2.48
+  },
+  {
+    "text": "It's a trivia game with over 800 questions",
+    "start": 2341.06,
+    "duration": 0.78
+  },
+  {
+    "text": "about science and technology,",
+    "start": 2341.84,
+    "duration": 1.39
+  },
+  {
+    "text": "but the twist is you don't just answer,",
+    "start": 2343.23,
+    "duration": 1.86
+  },
+  {
+    "text": "you also have to put down\na number from one to 10",
+    "start": 2345.09,
+    "duration": 2.349
+  },
+  {
+    "text": "for how confident you\nare that you're right.",
+    "start": 2347.439,
+    "duration": 1.671
+  },
+  {
+    "text": "So you can know the answer",
+    "start": 2349.11,
+    "duration": 1.189
+  },
+  {
+    "text": "and still miss out on\npoints by doubting yourself,",
+    "start": 2350.299,
+    "duration": 2.57
+  },
+  {
+    "text": "which it turns out gets\npeople pretty fired up.",
+    "start": 2352.869,
+    "duration": 2.311
+  },
+  {
+    "text": "Our team is competitive,",
+    "start": 2355.18,
+    "duration": 1.009
+  },
+  {
+    "text": "so every time we play,\nthings do get pretty heated.",
+    "start": 2356.189,
+    "duration": 2.421
+  },
+  {
+    "text": "The game comes out later this year,",
+    "start": 2358.61,
+    "duration": 1.439
+  },
+  {
+    "text": "so if you wanna pre-order,",
+    "start": 2360.049,
+    "duration": 1.05
+  },
+  {
+    "text": "there's a link in the description",
+    "start": 2361.099,
+    "duration": 1.151
+  },
+  {
+    "text": "that'll take you to the\nElements of Truth website.",
+    "start": 2362.25,
+    "duration": 2.279
+  },
+  {
+    "text": "Thank you for supporting this project,",
+    "start": 2364.529,
+    "duration": 1.381
+  },
+  {
+    "text": "and as always, thanks for watching.",
+    "start": 2365.91,
+    "duration": 2.917
+  },
+  {
+    "text": "Before we go,",
+    "start": 2372.536,
+    "duration": 0.833
+  },
+  {
+    "text": "I wanted to thank Imperial\nCollege of London for having us,",
+    "start": 2373.369,
+    "duration": 2.35
+  },
+  {
+    "text": "and especially Dr. Stepan\nLucyszyn and Ian Russock",
+    "start": 2375.719,
+    "duration": 2.351
+  },
+  {
+    "text": "for setting up the demo.",
+    "start": 2378.07,
+    "duration": 1.209
+  },
+  {
+    "text": "And as always, I wanted\nto thank you for watching.",
+    "start": 2379.279,
+    "duration": 2.305
+  },
+  {
+    "text": "(people indistinct chattering)",
+    "start": 2381.584,
+    "duration": 2.1
+  }
+]
