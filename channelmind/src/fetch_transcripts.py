@@ -30,7 +30,7 @@ def fetch_transcript(
         return transcript.to_raw_data()
 
     except Exception as e:
-        print(f"[Transcript Failed] {video_id}: {e}")
+        print(f"[Transcript Failed] {video_id}: {type(e).__name__}: {e!r}")
         return None
 
 
