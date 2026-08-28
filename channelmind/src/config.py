@@ -16,6 +16,12 @@ OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "llama3.2:3b")
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
 GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
 
+# YouTube blocks transcript requests from most data-center IPs (Railway included).
+# Set these to route transcript fetches through a Webshare residential proxy:
+# https://www.webshare.io -> purchase a "Residential" package -> dashboard.webshare.io/proxy/settings
+WEBSHARE_PROXY_USERNAME = os.getenv("WEBSHARE_PROXY_USERNAME", "")
+WEBSHARE_PROXY_PASSWORD = os.getenv("WEBSHARE_PROXY_PASSWORD", "")
+
 CHROMA_PATH = os.getenv("CHROMA_PATH", "data/chroma_db")
 COLLECTION_NAME = os.getenv("COLLECTION_NAME", "youtube_channel_knowledge")
 

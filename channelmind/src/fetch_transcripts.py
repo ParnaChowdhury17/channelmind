@@ -2,9 +2,22 @@ import os
 from typing import Dict, Any, List, Optional
 
 from youtube_transcript_api import YouTubeTranscriptApi
+from youtube_transcript_api.proxies import WebshareProxyConfig
 
 from src.utils import save_json
-from src.config import TRANSCRIPT_DIR
+from src.config import TRANSCRIPT_DIR, WEBSHARE_PROXY_USERNAME, WEBSHARE_PROXY_PASSWORD
+
+
+def _build_api() -> YouTubeTranscriptApi:
+    if WEBSHARE_PROXY_USERNAME and WEBSHARE_PROXY_PASSWORD:
+        return YouTubeTranscriptApi(
+            proxy_config=WebshareProxyConfig(
+                proxy_username=WEBSHARE_PROXY_USERNAME,
+                proxy_password=WEBSHARE_PROXY_PASSWORD,
+            )
+        )
+
+    return YouTubeTranscriptApi()
 
 
 def fetch_transcript(
@@ -24,7 +37,7 @@ def fetch_transcript(
         languages = ["en"]
 
     try:
-        ytt_api = YouTubeTranscriptApi()
+        ytt_api = _build_api()
         transcript = ytt_api.fetch(video_id, languages=languages)
 
         return transcript.to_raw_data()
