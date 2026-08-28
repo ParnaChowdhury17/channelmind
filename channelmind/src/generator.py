@@ -1,8 +1,21 @@
 import logging
+import re
 from typing import List, Dict, Any
 import requests
 
 logger = logging.getLogger(__name__)
+
+_CITATION_MARKUP = re.compile(r"\s*【[^】]*】")
+
+
+def _strip_citation_markup(text: str) -> str:
+    """
+    Some models (e.g. Groq's gpt-oss) emit browsing-style citation markers
+    like 【SOURCE 1†25:45】 regardless of prompt instructions. Strip them so
+    the UI only shows the plain-text citations the prompt actually asks for.
+    """
+
+    return _CITATION_MARKUP.sub("", text).strip()
 
 from src.config import (
     GENERATION_PROVIDER,
@@ -68,9 +81,11 @@ Now answer the user question using only the transcript sources.
 """
 
     if GENERATION_PROVIDER == "groq":
-        return _generate_with_groq(prompt)
+        answer = _generate_with_groq(prompt)
+    else:
+        answer = _generate_with_ollama(prompt)
 
-    return _generate_with_ollama(prompt)
+    return _strip_citation_markup(answer)
 
 
 def _generate_with_ollama(prompt: str) -> str:
