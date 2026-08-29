@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Binary ChromaDB vector index - rebuilt on deploy from data/processed/chunks.jsonl
+# (see src/embed_store.py rebuild_from_chunks_file). Never commit this: it's a
+# memory-mapped HNSW structure that can leak uninitialized process memory into
+# the file's padding bytes - this is how a Google API key ended up committed
+# in data_level0.bin and got flagged by GitHub secret scanning.
+data/chroma_db/

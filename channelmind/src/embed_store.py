@@ -78,6 +78,26 @@ def store_chunks(chunks: List[Dict[str, Any]], batch_size: int = 50) -> None:
 
         print(f"Stored batch {i // batch_size + 1}: {len(batch)} chunks")
 
+def rebuild_from_chunks_file(chunks_path: str) -> int:
+    """
+    Rebuild the ChromaDB collection from the plain-text chunks.jsonl file.
+
+    Used on startup in deployments that don't ship the binary chroma_db
+    directory (see rebuild_index.py) - only the JSONL, which is safe to
+    commit, is guaranteed to be present.
+    """
+    from src.utils import load_jsonl
+
+    chunks = load_jsonl(chunks_path)
+
+    deduped = list({chunk["id"]: chunk for chunk in chunks}.values())
+
+    if deduped:
+        store_chunks(deduped)
+
+    return len(deduped)
+
+
 def video_already_indexed(video_id: str) -> bool:
     """
     Check whether at least one chunk from this video already exists in ChromaDB.

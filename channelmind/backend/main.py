@@ -1,7 +1,12 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from src.embed_store import get_chroma_collection, video_already_indexed, get_indexed_videos
+from src.embed_store import (
+    get_chroma_collection,
+    video_already_indexed,
+    get_indexed_videos,
+    rebuild_from_chunks_file,
+)
 from src.config import COLLECTION_NAME, ALLOWED_ORIGINS
 from src.fetch_videos import fetch_channel_videos
 from src.fetch_transcripts import fetch_transcript, save_transcript
@@ -26,6 +31,15 @@ app = FastAPI(
     description="Local RAG API for querying YouTube channel transcripts",
     version="0.1.0",
 )
+
+
+@app.on_event("startup")
+def seed_index_if_empty():
+    collection = get_chroma_collection()
+
+    if collection.count() == 0:
+        added = rebuild_from_chunks_file(CHUNKS_PATH)
+        print(f"Seeded empty collection with {added} chunks from {CHUNKS_PATH}")
 
 
 app.add_middleware(
